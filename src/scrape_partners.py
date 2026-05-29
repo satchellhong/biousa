@@ -1,11 +1,11 @@
 #!/usr/bin/env /opt/homebrew/Caskroom/miniconda/base/bin/python
 """
 BIO USA 2026 partner.bio.org 스크래핑
-- 페이지네이션: "go to next page" 버튼 클릭 (25개/페이지)
-- 페이지마다 즉시 저장 (크래시 복구 가능)
-- 탭 404 시 자동 세션 재주입
+- CSV append 방식으로 즉시 저장
+- 타깃: 우리 플랫폼 구매/협력 가능 기업만 (비용 지불 공급사 제외)
 """
 
+import csv
 import json
 import os
 import re
@@ -16,8 +16,10 @@ import urllib.parse
 BASE = "http://localhost:9377"
 USER = "biousa-agent"
 WORK_DIR = "/Users/seokcholhong/workspace/biousa"
-RAW_PATH = WORK_DIR + "/data/bio_companies_raw.json"
-FILTERED_PATH = WORK_DIR + "/data/bio_companies_filtered.json"
+CSV_PATH = WORK_DIR + "/data/bio_companies_raw.csv"
+FILTERED_CSV_PATH = WORK_DIR + "/data/bio_companies_filtered.csv"
+
+CSV_FIELDS = ["name", "country", "company_type", "ownership", "website", "description", "search_keyword", "relevant", "relevance_score"]
 
 SEARCH_KEYWORDS = [
     "oncology",
@@ -34,17 +36,31 @@ SEARCH_KEYWORDS = [
     "patient stratification",
 ]
 
+# 우리 고객/파트너가 될 수 있는 회사 키워드
 INCLUDE_KEYWORDS = [
     "oncol", "cancer", "tumor", "kinase", "ppi ", "protein-protein",
     "translational", "rna-seq", "rnaseq", "biomarker", "drug response",
     "drug discovery", "ai drug", "adme", "toxicolog", "chemoinformat",
     "computational", "in silico", "machine learning", "deep learning",
-    "therapeutic r&d", "phase i", "phase ii",
+    "therapeutic r&d", "phase i", "phase ii", "clinical stage",
     "lead optim", "hit-to-lead", "medicinal chem", "patient stratif",
+    "multi-omics", "genomics", "precision medicine",
 ]
 
-EXCLUDE_KEYWORDS = [
+# 우리가 돈을 써야 하는 공급사 — 필터 아웃
+SUPPLIER_KEYWORDS = [
+    "cro only", "cmo only", "contract research only",
+    "staffing", "recruitment", "headhunting",
+    "legal service", "patent service", "ip service",
+    "accounting", "consulting only",
     "animal health", "veterinar", "agricultural", "dental", "ophthalmol",
+    "device only", "diagnostics only", "medical device only",
+]
+
+# 회사 타입 중 공급사에 해당하는 것 (설명에 없어도 타입으로 판단)
+SUPPLIER_TYPES = [
+    "staffing", "legal", "accounting", "financial service",
+    "real estate", "insurance",
 ]
 
 
@@ -76,8 +92,6 @@ def evaluate(tab_id, expr):
 
 
 def inject_session():
-    """쿠키 + localStorage 주입하여 새 탭 생성, tab_id 반환"""
-    # 쿠키 주입
     with open(WORK_DIR + "/cookies.json") as f:
         cookies = json.load(f)
     for c in cookies:
@@ -90,11 +104,9 @@ def inject_session():
             c["sameSite"] = "Strict"
     api("POST", "/sessions/biousa-agent/cookies", {"cookies": cookies})
 
-    # 탭 생성
     tab = api("POST", "/tabs", {"userId": USER, "sessionKey": "scrape_main", "url": "https://partner.bio.org/conference/86/search"})
     tab_id = tab["tabId"]
 
-    # localStorage 주입
     with open(WORK_DIR + "/auth_data.json") as f:
         auth = json.load(f)
     ls = auth["localStorage"]
@@ -104,7 +116,6 @@ def inject_session():
     api("POST", f"/tabs/{tab_id}/evaluate", {"expression": script, "userId": USER})
     time.sleep(8)
 
-    # 저장
     with open(WORK_DIR + "/src/active_tab.txt", "w") as f:
         f.write(tab_id)
     print(f"  세션 재주입 완료: {tab_id}")
@@ -115,26 +126,34 @@ def get_active_tab():
     try:
         with open(WORK_DIR + "/src/active_tab.txt") as f:
             tab_id = f.read().strip()
-        # 탭 살아있는지 확인
         get_snapshot(tab_id)
         return tab_id
     except Exception:
-        pass
-    return None
+        return None
 
 
-def load_existing():
-    if os.path.exists(RAW_PATH):
-        with open(RAW_PATH) as f:
-            data = json.load(f)
-        return data, {c["name"] for c in data}
-    return [], set()
+def load_existing_names():
+    """기존 CSV에서 이름 + 완료 키워드 로드"""
+    seen = set()
+    done_keywords = set()
+    if os.path.exists(CSV_PATH):
+        with open(CSV_PATH, newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                seen.add(row["name"])
+                done_keywords.add(row["search_keyword"])
+    return seen, done_keywords
 
 
-def save_raw(companies):
+def append_to_csv(companies):
+    """CSV에 행 추가 (파일 없으면 헤더 포함 생성)"""
     os.makedirs(WORK_DIR + "/data", exist_ok=True)
-    with open(RAW_PATH, "w", encoding="utf-8") as f:
-        json.dump(companies, f, ensure_ascii=False, indent=2)
+    file_exists = os.path.exists(CSV_PATH)
+    with open(CSV_PATH, "a", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=CSV_FIELDS, extrasaction="ignore")
+        if not file_exists:
+            writer.writeheader()
+        writer.writerows(companies)
 
 
 def parse_companies(snap_text):
@@ -154,8 +173,13 @@ def parse_companies(snap_text):
             website = wm.group(1) if wm else ""
 
             text_match = re.search(r'text: (?:Updated [\w ]+ ago )?(.*?)(?:\n\s*paragraph:|\n\s*-\s*button|\Z)', block)
-            type_country = text_match.group(1).strip() if text_match else ""
-            type_country = re.sub(r'^Updated \S+ ', '', type_country).strip()
+            type_country_raw = text_match.group(1).strip() if text_match else ""
+            type_country_raw = re.sub(r'^Updated \S+ ', '', type_country_raw).strip()
+
+            # 마지막 단어를 국가로 추출 시도 (영어 단어들)
+            parts = type_country_raw.rsplit(' ', 1)
+            country = parts[-1] if len(parts) > 1 and parts[-1][0].isupper() else ""
+            company_type = type_country_raw
 
             own_match = re.search(r'paragraph: (Public|Private|Academic|Government|Non-?profit)', block)
             ownership = own_match.group(1) if own_match else ""
@@ -169,12 +193,13 @@ def parse_companies(snap_text):
                     btn_text = re.sub(r'^- button "', '', line).rstrip('"')
                     skip = ['Request', 'Prior Meetings', 'Notes', 'Website', 'Updated', 'View']
                     if not any(x in btn_text for x in skip) and len(btn_text) > 50:
-                        desc = btn_text[:400]
+                        desc = btn_text[:500]
                         break
 
             companies.append({
                 "name": name,
-                "type_country": type_country,
+                "country": country,
+                "company_type": company_type,
                 "website": website,
                 "ownership": ownership,
                 "description": desc,
@@ -202,15 +227,28 @@ def get_page_info(snap_text):
 
 
 def is_relevant(company):
-    text = (company.get("name","") + " " + company.get("description","") + " " + company.get("type_country","")).lower()
-    if any(kw in text for kw in EXCLUDE_KEYWORDS):
+    """
+    우리와 거래 가능한 회사인지 판단:
+    - 포함: 우리 플랫폼 구매/협력 가능 (바이오텍, 파마, AI 플랫폼 등)
+    - 제외: 우리가 돈을 써야 하는 순수 공급사 (서비스 판매자)
+    """
+    text = (
+        company.get("name","") + " " +
+        company.get("description","") + " " +
+        company.get("company_type","")
+    ).lower()
+
+    # 순수 공급사 제외
+    if any(kw in text for kw in SUPPLIER_KEYWORDS):
         return False, 0
+    if any(kw in company.get("company_type","").lower() for kw in SUPPLIER_TYPES):
+        return False, 0
+
     score = sum(1 for kw in INCLUDE_KEYWORDS if kw in text)
     return score >= 1, score
 
 
-def search_and_scrape(tab_id, keyword, seen_names, all_companies, max_pages=200):
-    """페이지네이션 방식으로 순회하며 수집, 페이지마다 즉시 저장"""
+def search_and_scrape(tab_id, keyword, seen_names, max_pages=200):
     print(f"\n[{keyword}] 검색 시작")
 
     search_url = "https://partner.bio.org/conference/86/search?keyword={}&sortBy=relevancy".format(
@@ -219,7 +257,6 @@ def search_and_scrape(tab_id, keyword, seen_names, all_companies, max_pages=200)
     navigate(tab_id, search_url)
     time.sleep(4)
 
-    # Companies 탭 클릭
     snap = get_snapshot(tab_id)
     snap_text = snap.get("snapshot", "")
     for line in snap_text.split('\n'):
@@ -230,7 +267,7 @@ def search_and_scrape(tab_id, keyword, seen_names, all_companies, max_pages=200)
                 time.sleep(3)
                 break
 
-    new_companies = []
+    keyword_new_count = 0
     page = 1
 
     while page <= max_pages:
@@ -244,7 +281,7 @@ def search_and_scrape(tab_id, keyword, seen_names, all_companies, max_pages=200)
             print(f"  총 {total_results}개 결과, {total_pages}페이지")
 
         companies = parse_companies(page_text)
-        added = 0
+        page_new = []
         for c in companies:
             if c["name"] not in seen_names:
                 seen_names.add(c["name"])
@@ -252,21 +289,19 @@ def search_and_scrape(tab_id, keyword, seen_names, all_companies, max_pages=200)
                 rel, score = is_relevant(c)
                 c["relevant"] = rel
                 c["relevance_score"] = score
-                new_companies.append(c)
-                added += 1
+                page_new.append(c)
+                keyword_new_count += 1
 
-        print(f"  페이지 {cur_page}/{total_pages}: +{added}개 (키워드 누적 {len(new_companies)}개)")
+        # 페이지마다 즉시 CSV append
+        if page_new:
+            append_to_csv(page_new)
 
-        # 페이지마다 즉시 저장
-        if added > 0:
-            save_raw(all_companies + new_companies)
+        print(f"  페이지 {cur_page}/{total_pages}: +{len(page_new)}개 저장 (키워드 누적 {keyword_new_count}개)")
 
-        # 마지막 페이지 도달
         if cur_page >= total_pages or cur_page >= max_pages:
             print(f"  마지막 페이지 도달")
             break
 
-        # 다음 페이지 버튼 클릭
         next_ref = find_next_page_ref(page_text)
         if not next_ref:
             result = evaluate(tab_id, """(function(){
@@ -283,12 +318,27 @@ def search_and_scrape(tab_id, keyword, seen_names, all_companies, max_pages=200)
         page += 1
         time.sleep(3)
 
-    return new_companies
+    return keyword_new_count
 
 
-def filter_companies(companies):
-    filtered = [c for c in companies if c.get("relevant", False)]
-    filtered.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
+def save_filtered():
+    """raw CSV에서 필터링된 CSV 생성"""
+    filtered = []
+    if not os.path.exists(CSV_PATH):
+        return
+    with open(CSV_PATH, newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            if row.get("relevant") == "True":
+                filtered.append(row)
+
+    filtered.sort(key=lambda x: int(x.get("relevance_score","0") or 0), reverse=True)
+
+    with open(FILTERED_CSV_PATH, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=CSV_FIELDS, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(filtered)
+
     return filtered
 
 
@@ -297,46 +347,38 @@ def main():
 
     tab_id = get_active_tab()
     if not tab_id:
-        print("탭 없음 또는 만료 — 세션 재주입 중...")
+        print("탭 없음 — 세션 재주입 중...")
         tab_id = inject_session()
-
     print(f"탭: {tab_id}")
 
-    all_companies, seen_names = load_existing()
-    done_keywords = {c["search_keyword"] for c in all_companies}
-    print(f"기존 수집: {len(all_companies)}개, 완료 키워드: {done_keywords}")
+    seen_names, done_keywords = load_existing_names()
+    print(f"기존 수집: {len(seen_names)}개사, 완료 키워드: {done_keywords}")
 
     for keyword in SEARCH_KEYWORDS:
         if keyword in done_keywords:
             print(f"\n[{keyword}] 이미 완료, 스킵")
             continue
 
-        # 탭 살아있는지 확인, 죽으면 재주입
         try:
             get_snapshot(tab_id)
         except Exception:
             print(f"  탭 만료 — 세션 재주입 중...")
             tab_id = inject_session()
 
-        new = search_and_scrape(tab_id, keyword, seen_names, all_companies)
-        all_companies.extend(new)
-        save_raw(all_companies)
-        print(f"  → 키워드 완료 저장 (총 {len(all_companies)}개)")
+        count = search_and_scrape(tab_id, keyword, seen_names)
+        print(f"  → [{keyword}] 완료: {count}개 추가")
 
-    print(f"\n=== 총 수집: {len(all_companies)}개 ===")
+    # 최종 통계
+    seen_final, _ = load_existing_names()
+    print(f"\n=== 총 수집: {len(seen_final)}개 ===")
 
-    filtered = filter_companies(all_companies)
-    os.makedirs(WORK_DIR + "/data", exist_ok=True)
-    with open(FILTERED_PATH, "w", encoding="utf-8") as f:
-        json.dump(filtered, f, ensure_ascii=False, indent=2)
-    print(f"필터링: {len(filtered)}개 → {FILTERED_PATH}")
+    filtered = save_filtered()
+    print(f"필터링: {len(filtered)}개 → {FILTERED_CSV_PATH}")
 
     print("\n=== 상위 타깃 기업 (relevance 순) ===")
     for i, c in enumerate(filtered[:30], 1):
-        print(f"{i:2}. [{c.get('relevance_score',0)}점] {c['name']}")
-        tc = c.get("type_country","")[:60]
-        if tc:
-            print(f"    {tc}")
+        score = c.get("relevance_score","0")
+        print(f"{i:2}. [{score}점] {c['name']} ({c.get('country','')})")
         if c.get("description"):
             print(f"    {c['description'][:120]}")
 
