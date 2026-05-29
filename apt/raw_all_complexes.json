@@ -1,0 +1,3640 @@
+{
+  "128914": {
+    "cluster": {
+      "complexNumber": 128914,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.960524,
+        "yCoordinate": 37.557655
+      },
+      "useApprovalDate": "20200123",
+      "totalHouseholdNumber": 24,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 5,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {},
+      "baseSpace": 30.43
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "102804": {
+    "cluster": {
+      "complexNumber": 102804,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.960767,
+        "yCoordinate": 37.562616
+      },
+      "useApprovalDate": "20060303",
+      "totalHouseholdNumber": 16,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 999000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        },
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 220000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 47.64
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "103728": {
+    "cluster": {
+      "complexNumber": 103728,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.961015,
+        "yCoordinate": 37.564313
+      },
+      "useApprovalDate": "20031213",
+      "totalHouseholdNumber": 10,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {},
+      "baseSpace": 92.54
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "163819": {
+    "cluster": {
+      "complexNumber": 163819,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.96093,
+        "yCoordinate": 37.563214
+      },
+      "useApprovalDate": "20030529",
+      "totalHouseholdNumber": 10,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {},
+      "baseSpace": 107.15
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "156797": {
+    "cluster": {
+      "complexNumber": 156797,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.97007,
+        "yCoordinate": 37.56859
+      },
+      "useApprovalDate": "19711110",
+      "totalHouseholdNumber": 62,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {},
+      "baseSpace": 52.79
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "13301": {
+    "cluster": {
+      "complexNumber": 13301,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.961656,
+        "yCoordinate": 37.561354
+      },
+      "useApprovalDate": "20010421",
+      "totalHouseholdNumber": 6,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 400000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 148.3
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "102936": {
+    "cluster": {
+      "complexNumber": 102936,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.961409,
+        "yCoordinate": 37.562036
+      },
+      "useApprovalDate": "20040730",
+      "totalHouseholdNumber": 19,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 5,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 350000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 102.09
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "103350": {
+    "cluster": {
+      "complexNumber": 103350,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.961174,
+        "yCoordinate": 37.561836
+      },
+      "useApprovalDate": "20050502",
+      "totalHouseholdNumber": 36,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 3,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1300000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        },
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 300000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 103.75
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "132163": {
+    "cluster": {
+      "complexNumber": 132163,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.962487,
+        "yCoordinate": 37.561248
+      },
+      "useApprovalDate": "20200117",
+      "totalHouseholdNumber": 199,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {},
+      "baseSpace": 44.76
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "3486": {
+    "cluster": {
+      "complexNumber": 3486,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.958704,
+        "yCoordinate": 37.561184
+      },
+      "useApprovalDate": "19751111",
+      "totalHouseholdNumber": 78,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1568500000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        },
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 150000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 87.95
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "132162": {
+    "cluster": {
+      "complexNumber": 132162,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.962487,
+        "yCoordinate": 37.561254
+      },
+      "useApprovalDate": "20200117",
+      "totalHouseholdNumber": 300,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 3,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {},
+      "baseSpace": 29.76
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "167120": {
+    "cluster": {
+      "complexNumber": 167120,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.96009,
+        "yCoordinate": 37.568318
+      },
+      "useApprovalDate": "20240328",
+      "totalHouseholdNumber": 29,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1390000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1070000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 46060957
+      },
+      "baseSpace": 99.76
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "16574": {
+    "cluster": {
+      "complexNumber": 16574,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.97294,
+        "yCoordinate": 37.57131
+      },
+      "useApprovalDate": "19811123",
+      "totalHouseholdNumber": 24,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 3,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1100000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 36988744
+      },
+      "baseSpace": 98.31
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "133562": {
+    "cluster": {
+      "complexNumber": 133562,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.99144,
+        "yCoordinate": 37.568579
+      },
+      "useApprovalDate": "20200911",
+      "totalHouseholdNumber": 24,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 210000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 28949743
+      },
+      "baseSpace": 23.98
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "25690": {
+    "cluster": {
+      "complexNumber": 25690,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.982548,
+        "yCoordinate": 37.572366
+      },
+      "useApprovalDate": "20080605",
+      "totalHouseholdNumber": 54,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 3,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1700000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 31289095
+      },
+      "baseSpace": 179.61
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "1278": {
+    "cluster": {
+      "complexNumber": 1278,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.973685,
+        "yCoordinate": 37.571424
+      },
+      "useApprovalDate": "19811231",
+      "totalHouseholdNumber": 48,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 940000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 830000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 33284467
+      },
+      "baseSpace": 93.36
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "15838": {
+    "cluster": {
+      "complexNumber": 15838,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.967194,
+        "yCoordinate": 37.559492
+      },
+      "useApprovalDate": "19710620",
+      "totalHouseholdNumber": 68,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 7,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 265000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 21201186
+      },
+      "baseSpace": 41.32
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "16732": {
+    "cluster": {
+      "complexNumber": 16732,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.991626,
+        "yCoordinate": 37.559793
+      },
+      "useApprovalDate": "19991125",
+      "totalHouseholdNumber": 39,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 16,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {},
+      "baseSpace": 81.99
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "7959": {
+    "cluster": {
+      "complexNumber": 7959,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.973305,
+        "yCoordinate": 37.572764
+      },
+      "useApprovalDate": "19940531",
+      "totalHouseholdNumber": 60,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 600000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 105.12
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "10988": {
+    "cluster": {
+      "complexNumber": 10988,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.96167,
+        "yCoordinate": 37.57164
+      },
+      "useApprovalDate": "19951110",
+      "totalHouseholdNumber": 48,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 820000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 785000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 33110342
+      },
+      "baseSpace": 81.87
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "12239": {
+    "cluster": {
+      "complexNumber": 12239,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.971025,
+        "yCoordinate": 37.573924
+      },
+      "useApprovalDate": "20040703",
+      "totalHouseholdNumber": 90,
+      "isVrExposed": false,
+      "viewCount": 6,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2290000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 52805856
+      },
+      "baseSpace": 143.36
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "100502": {
+    "cluster": {
+      "complexNumber": 100502,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.972004,
+        "yCoordinate": 37.572707
+      },
+      "useApprovalDate": "20040517",
+      "totalHouseholdNumber": 120,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2700000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2520000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 50690705
+      },
+      "baseSpace": 176.08
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "16709": {
+    "cluster": {
+      "complexNumber": 16709,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.995394,
+        "yCoordinate": 37.567457
+      },
+      "useApprovalDate": "197104",
+      "totalHouseholdNumber": 120,
+      "isVrExposed": false,
+      "viewCount": 2,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 675000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 21774052
+      },
+      "baseSpace": 102.48
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "102732": {
+    "cluster": {
+      "complexNumber": 102732,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.962083,
+        "yCoordinate": 37.562403
+      },
+      "useApprovalDate": "20101101",
+      "totalHouseholdNumber": 46,
+      "isVrExposed": false,
+      "viewCount": 2,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 920000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 860000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 29639627
+      },
+      "baseSpace": 102.61
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "120174": {
+    "cluster": {
+      "complexNumber": 120174,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.970521,
+        "yCoordinate": 37.573307
+      },
+      "useApprovalDate": "20040629",
+      "totalHouseholdNumber": 18,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2800000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 43657192
+      },
+      "baseSpace": 212.02
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "15813": {
+    "cluster": {
+      "complexNumber": 15813,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.995769,
+        "yCoordinate": 37.564019
+      },
+      "useApprovalDate": "19680530",
+      "totalHouseholdNumber": 179,
+      "isVrExposed": false,
+      "viewCount": 3,
+      "pyeongTypeNumber": 15,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 390000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 305000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 30976841
+      },
+      "baseSpace": 41.62
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "104306": {
+    "cluster": {
+      "complexNumber": 104306,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.966369,
+        "yCoordinate": 37.560004
+      },
+      "useApprovalDate": "20111230",
+      "totalHouseholdNumber": 98,
+      "isVrExposed": false,
+      "viewCount": 3,
+      "pyeongTypeNumber": 5,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {},
+      "baseSpace": 61.35
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "100500": {
+    "cluster": {
+      "complexNumber": 100500,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.971957,
+        "yCoordinate": 37.573599
+      },
+      "useApprovalDate": "20040517",
+      "totalHouseholdNumber": 150,
+      "isVrExposed": false,
+      "viewCount": 10,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 1500000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 173.07
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "25593": {
+    "cluster": {
+      "complexNumber": 25593,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.969576,
+        "yCoordinate": 37.563189
+      },
+      "useApprovalDate": "20060929",
+      "totalHouseholdNumber": 84,
+      "isVrExposed": false,
+      "viewCount": 6,
+      "pyeongTypeNumber": 8,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 680000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 630000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 26270115
+      },
+      "baseSpace": 85.57
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "11828": {
+    "cluster": {
+      "complexNumber": 11828,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.987701,
+        "yCoordinate": 37.572203
+      },
+      "useApprovalDate": "19680915",
+      "totalHouseholdNumber": 149,
+      "isVrExposed": false,
+      "viewCount": 6,
+      "pyeongTypeNumber": 14,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 535000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 25047372
+      },
+      "baseSpace": 70.61
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "3832": {
+    "cluster": {
+      "complexNumber": 3832,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.964874,
+        "yCoordinate": 37.558616
+      },
+      "useApprovalDate": "20010711",
+      "totalHouseholdNumber": 712,
+      "isVrExposed": false,
+      "viewCount": 9,
+      "pyeongTypeNumber": 8,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1700000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        },
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 714000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 109.96
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "17793": {
+    "cluster": {
+      "complexNumber": 17793,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.96323,
+        "yCoordinate": 37.564575
+      },
+      "useApprovalDate": "20040227",
+      "totalHouseholdNumber": 30,
+      "isVrExposed": false,
+      "viewCount": 3,
+      "pyeongTypeNumber": 10,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 850000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 30512729
+      },
+      "baseSpace": 92.09
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "10342": {
+    "cluster": {
+      "complexNumber": 10342,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.965144,
+        "yCoordinate": 37.56281
+      },
+      "useApprovalDate": "19871019",
+      "totalHouseholdNumber": 95,
+      "isVrExposed": false,
+      "viewCount": 2,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 850000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 745000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 20731276
+      },
+      "warrantyPriceRatio": 70.58823529411765,
+      "baseSpace": 135.54
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "15832": {
+    "cluster": {
+      "complexNumber": 15832,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.970199,
+        "yCoordinate": 37.567276
+      },
+      "useApprovalDate": "19650627",
+      "totalHouseholdNumber": 36,
+      "isVrExposed": false,
+      "viewCount": 1,
+      "pyeongTypeNumber": 3,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 690000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 49308077
+      },
+      "baseSpace": 46.26
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "106628": {
+    "cluster": {
+      "complexNumber": 106628,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.964783,
+        "yCoordinate": 37.561102
+      },
+      "useApprovalDate": "20030519",
+      "totalHouseholdNumber": 19,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 530000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 85.42
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "1279": {
+    "cluster": {
+      "complexNumber": 1279,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.97308,
+        "yCoordinate": 37.571843
+      },
+      "useApprovalDate": "19830610",
+      "totalHouseholdNumber": 72,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 10,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1200000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 37381662
+      },
+      "warrantyPriceRatio": 52.5,
+      "baseSpace": 106.12
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "135725": {
+    "cluster": {
+      "complexNumber": 135725,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.993372,
+        "yCoordinate": 37.568005
+      },
+      "useApprovalDate": "20230224",
+      "totalHouseholdNumber": 208,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 6,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1350000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1130000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 59951769
+      },
+      "warrantyPriceRatio": 61.111111111111114,
+      "baseSpace": 74.44
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "148186": {
+    "cluster": {
+      "complexNumber": 148186,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.992941,
+        "yCoordinate": 37.568017
+      },
+      "useApprovalDate": "20230224",
+      "totalHouseholdNumber": 206,
+      "isVrExposed": false,
+      "viewCount": 3,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 950000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 862000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 45245580
+      },
+      "baseSpace": 69.41
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "17541": {
+    "cluster": {
+      "complexNumber": 17541,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.962326,
+        "yCoordinate": 37.562008
+      },
+      "useApprovalDate": "20080528",
+      "totalHouseholdNumber": 108,
+      "isVrExposed": false,
+      "viewCount": 3,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1180000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1120000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 35676113
+      },
+      "baseSpace": 109.34
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "15845": {
+    "cluster": {
+      "complexNumber": 15845,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.993551,
+        "yCoordinate": 37.561423
+      },
+      "useApprovalDate": "19721019",
+      "totalHouseholdNumber": 19,
+      "isVrExposed": false,
+      "viewCount": 3,
+      "pyeongTypeNumber": 3,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 570000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 25883206
+      },
+      "baseSpace": 72.8
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "26373": {
+    "cluster": {
+      "complexNumber": 26373,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.985315,
+        "yCoordinate": 37.558631
+      },
+      "useApprovalDate": "20030321",
+      "totalHouseholdNumber": 14,
+      "isVrExposed": false,
+      "viewCount": 2,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 860000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 29995516
+      },
+      "baseSpace": 94.78
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "3835": {
+    "cluster": {
+      "complexNumber": 3835,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.979774,
+        "yCoordinate": 37.55825
+      },
+      "useApprovalDate": "19760501",
+      "totalHouseholdNumber": 33,
+      "isVrExposed": false,
+      "viewCount": 2,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 510000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 448000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 26293673
+      },
+      "warrantyPriceRatio": 58.82352941176471,
+      "baseSpace": 64.12
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "17785": {
+    "cluster": {
+      "complexNumber": 17785,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.964036,
+        "yCoordinate": 37.56147
+      },
+      "useApprovalDate": "19320102",
+      "totalHouseholdNumber": 40,
+      "isVrExposed": false,
+      "viewCount": 5,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1050000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 67741495
+      },
+      "baseSpace": 51.24
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "10197": {
+    "cluster": {
+      "complexNumber": 10197,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.96271,
+        "yCoordinate": 37.57269
+      },
+      "useApprovalDate": "19711113",
+      "totalHouseholdNumber": 64,
+      "isVrExposed": false,
+      "viewCount": 6,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 265000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 33.05
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "131770": {
+    "cluster": {
+      "complexNumber": 131770,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.972062,
+        "yCoordinate": 37.568657
+      },
+      "useApprovalDate": "20200713",
+      "totalHouseholdNumber": 58,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 5200000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 4750000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 88145226
+      },
+      "baseSpace": 195.02
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "20250": {
+    "cluster": {
+      "complexNumber": 20250,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.970567,
+        "yCoordinate": 37.574236
+      },
+      "useApprovalDate": "20031119",
+      "totalHouseholdNumber": 142,
+      "isVrExposed": false,
+      "viewCount": 6,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1900000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1850000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 42635022
+      },
+      "baseSpace": 147.32
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "27378": {
+    "cluster": {
+      "complexNumber": 27378,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.983468,
+        "yCoordinate": 37.559624
+      },
+      "useApprovalDate": "20100805",
+      "totalHouseholdNumber": 236,
+      "isVrExposed": false,
+      "viewCount": 7,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 3450000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2680000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 52533202
+      },
+      "warrantyPriceRatio": 57.971014492753625,
+      "baseSpace": 217.1
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "110137": {
+    "cluster": {
+      "complexNumber": 110137,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.961267,
+        "yCoordinate": 37.571678
+      },
+      "useApprovalDate": "20170629",
+      "totalHouseholdNumber": 182,
+      "isVrExposed": true,
+      "viewCount": 12,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1000000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 950000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 60017883
+      },
+      "warrantyPriceRatio": 62,
+      "baseSpace": 55.08
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "15839": {
+    "cluster": {
+      "complexNumber": 15839,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.995892,
+        "yCoordinate": 37.562398
+      },
+      "useApprovalDate": "19700523",
+      "totalHouseholdNumber": 280,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 680000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 700000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 31251686
+      },
+      "baseSpace": 71.93
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "13721": {
+    "cluster": {
+      "complexNumber": 13721,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.968193,
+        "yCoordinate": 37.56087
+      },
+      "useApprovalDate": "20060320",
+      "totalHouseholdNumber": 110,
+      "isVrExposed": false,
+      "viewCount": 9,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2250000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1790000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 43755610
+      },
+      "baseSpace": 169.99
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "26121": {
+    "cluster": {
+      "complexNumber": 26121,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.980559,
+        "yCoordinate": 37.559146
+      },
+      "useApprovalDate": "20100111",
+      "totalHouseholdNumber": 233,
+      "isVrExposed": false,
+      "viewCount": 5,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2400000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 46402409
+      },
+      "baseSpace": 170.98
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "8989": {
+    "cluster": {
+      "complexNumber": 8989,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.95971,
+        "yCoordinate": 37.56827
+      },
+      "useApprovalDate": "19940506",
+      "totalHouseholdNumber": 19,
+      "isVrExposed": false,
+      "viewCount": 4,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1100000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 23606618
+      },
+      "baseSpace": 154.04
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "8716": {
+    "cluster": {
+      "complexNumber": 8716,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.963106,
+        "yCoordinate": 37.563709
+      },
+      "useApprovalDate": "19921229",
+      "totalHouseholdNumber": 83,
+      "isVrExposed": false,
+      "viewCount": 5,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "B1": {
+          "warrantyPrice": 540000000
+        }
+      },
+      "realPriceByTradeType": {
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 546000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "warrantyPrice": 17753594
+      },
+      "baseSpace": 100.55
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "17518": {
+    "cluster": {
+      "complexNumber": 17518,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.971987,
+        "yCoordinate": 37.559937
+      },
+      "useApprovalDate": "20070525",
+      "totalHouseholdNumber": 137,
+      "isVrExposed": false,
+      "viewCount": 8,
+      "pyeongTypeNumber": 10,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1275000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 38157485
+      },
+      "warrantyPriceRatio": 62.745098039215684,
+      "baseSpace": 110.46
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "24908": {
+    "cluster": {
+      "complexNumber": 24908,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.965906,
+        "yCoordinate": 37.561797
+      },
+      "useApprovalDate": "20081031",
+      "totalHouseholdNumber": 180,
+      "isVrExposed": false,
+      "viewCount": 6,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1700000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1330000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 50964310
+      },
+      "baseSpace": 110.27
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "114521": {
+    "cluster": {
+      "complexNumber": 114521,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.959448,
+        "yCoordinate": 37.574142
+      },
+      "useApprovalDate": "20190621",
+      "totalHouseholdNumber": 195,
+      "isVrExposed": false,
+      "viewCount": 7,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2190000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1970000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 63234074
+      },
+      "baseSpace": 114.49
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "3482": {
+    "cluster": {
+      "complexNumber": 3482,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.968112,
+        "yCoordinate": 37.562993
+      },
+      "useApprovalDate": "19710123",
+      "totalHouseholdNumber": 108,
+      "isVrExposed": false,
+      "viewCount": 10,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 280000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 21707781
+      },
+      "baseSpace": 42.64
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "27135": {
+    "cluster": {
+      "complexNumber": 27135,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.970782,
+        "yCoordinate": 37.568489
+      },
+      "useApprovalDate": "20080925",
+      "totalHouseholdNumber": 98,
+      "isVrExposed": false,
+      "viewCount": 16,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2100000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 41070511
+      },
+      "baseSpace": 169.03
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "26046": {
+    "cluster": {
+      "complexNumber": 26046,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.961383,
+        "yCoordinate": 37.566343
+      },
+      "useApprovalDate": "20110407",
+      "totalHouseholdNumber": 561,
+      "isVrExposed": false,
+      "viewCount": 20,
+      "pyeongTypeNumber": 4,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1850000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1725000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 56433535
+      },
+      "baseSpace": 108.37
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "12241": {
+    "cluster": {
+      "complexNumber": 12241,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.964805,
+        "yCoordinate": 37.560345
+      },
+      "useApprovalDate": "20040923",
+      "totalHouseholdNumber": 258,
+      "isVrExposed": false,
+      "viewCount": 9,
+      "pyeongTypeNumber": 5,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 555000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 520000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 31266371
+      },
+      "baseSpace": 58.68
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "107404": {
+    "cluster": {
+      "complexNumber": 107404,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.970226,
+        "yCoordinate": 37.563861
+      },
+      "useApprovalDate": "20160831",
+      "totalHouseholdNumber": 296,
+      "isVrExposed": false,
+      "viewCount": 21,
+      "pyeongTypeNumber": 5,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2100000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1820000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 62570063
+      },
+      "baseSpace": 110.95
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "110125": {
+    "cluster": {
+      "complexNumber": 110125,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.965989,
+        "yCoordinate": 37.569144
+      },
+      "useApprovalDate": "20170224",
+      "totalHouseholdNumber": 589,
+      "isVrExposed": true,
+      "viewCount": 21,
+      "pyeongTypeNumber": 7,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2530000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2380000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 74715347
+      },
+      "warrantyPriceRatio": 49.40711462450593,
+      "baseSpace": 111.94
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "109379": {
+    "cluster": {
+      "complexNumber": 109379,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.963882,
+        "yCoordinate": 37.570876
+      },
+      "useApprovalDate": "20170224",
+      "totalHouseholdNumber": 1148,
+      "isVrExposed": true,
+      "viewCount": 50,
+      "pyeongTypeNumber": 6,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2750000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2640000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 80671832
+      },
+      "warrantyPriceRatio": 50.90909090909091,
+      "baseSpace": 112.69
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "22124": {
+    "cluster": {
+      "complexNumber": 22124,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.968606,
+        "yCoordinate": 37.574426
+      },
+      "useApprovalDate": "20080711",
+      "totalHouseholdNumber": 744,
+      "isVrExposed": false,
+      "viewCount": 24,
+      "pyeongTypeNumber": 5,
+      "medianPriceByTradeType": {},
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1940000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        },
+        "B1": {
+          "dealPrice": 0,
+          "warrantyPrice": 924000000,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {},
+      "baseSpace": 113.24
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "940": {
+    "cluster": {
+      "complexNumber": 940,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.958749,
+        "yCoordinate": 37.570113
+      },
+      "useApprovalDate": "19950623",
+      "totalHouseholdNumber": 895,
+      "isVrExposed": false,
+      "viewCount": 29,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1430000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1240000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 45154957
+      },
+      "baseSpace": 104.69
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "16059": {
+    "cluster": {
+      "complexNumber": 16059,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.964142,
+        "yCoordinate": 37.563295
+      },
+      "useApprovalDate": "19690613",
+      "totalHouseholdNumber": 97,
+      "isVrExposed": false,
+      "viewCount": 11,
+      "pyeongTypeNumber": 23,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 480000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 450000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 28554558
+      },
+      "warrantyPriceRatio": 54.166666666666664,
+      "baseSpace": 55.57
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "136216": {
+    "cluster": {
+      "complexNumber": 136216,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.971782,
+        "yCoordinate": 37.563206
+      },
+      "useApprovalDate": "20201221",
+      "totalHouseholdNumber": 168,
+      "isVrExposed": false,
+      "viewCount": 12,
+      "pyeongTypeNumber": 13,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 255000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 38828888
+      },
+      "baseSpace": 21.71
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "148187": {
+    "cluster": {
+      "complexNumber": 148187,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.994464,
+        "yCoordinate": 37.56811
+      },
+      "useApprovalDate": "20230307",
+      "totalHouseholdNumber": 329,
+      "isVrExposed": false,
+      "viewCount": 14,
+      "pyeongTypeNumber": 3,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1020000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 920000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 47008235
+      },
+      "baseSpace": 71.73
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "101771": {
+    "cluster": {
+      "complexNumber": 101771,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.982116,
+        "yCoordinate": 37.558297
+      },
+      "useApprovalDate": "20111118",
+      "totalHouseholdNumber": 386,
+      "isVrExposed": false,
+      "viewCount": 16,
+      "pyeongTypeNumber": 6,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2500000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2180000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 44730799
+      },
+      "warrantyPriceRatio": 64,
+      "baseSpace": 184.76
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "135726": {
+    "cluster": {
+      "complexNumber": 135726,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.994857,
+        "yCoordinate": 37.568089
+      },
+      "useApprovalDate": "20230307",
+      "totalHouseholdNumber": 279,
+      "isVrExposed": false,
+      "viewCount": 9,
+      "pyeongTypeNumber": 1,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 850000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 690000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 42115066
+      },
+      "warrantyPriceRatio": 74.11764705882354,
+      "baseSpace": 66.72
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "3392": {
+    "cluster": {
+      "complexNumber": 3392,
+      "realEstateType": "A01",
+      "coordinates": {
+        "xCoordinate": 126.960627,
+        "yCoordinate": 37.566994
+      },
+      "useApprovalDate": "20020321",
+      "totalHouseholdNumber": 237,
+      "isVrExposed": false,
+      "viewCount": 14,
+      "pyeongTypeNumber": 2,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 1190000000
+        }
+      },
+      "realPriceByTradeType": {
+        "A1": {
+          "dealPrice": 980000000,
+          "warrantyPrice": 0,
+          "rentPrice": 0
+        }
+      },
+      "pricePerPyeong": {
+        "dealPrice": 45399701
+      },
+      "baseSpace": 86.65
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  },
+  "176337": {
+    "cluster": {
+      "complexNumber": 176337,
+      "realEstateType": "B01",
+      "coordinates": {
+        "xCoordinate": 126.960085,
+        "yCoordinate": 37.570989
+      },
+      "useApprovalDate": "202607",
+      "totalHouseholdNumber": 199,
+      "isVrExposed": false,
+      "viewCount": 17,
+      "pyeongTypeNumber": 3,
+      "medianPriceByTradeType": {
+        "A1": {
+          "dealPrice": 2050000000
+        }
+      },
+      "realPriceByTradeType": {},
+      "pricePerPyeong": {
+        "dealPrice": 58714774
+      },
+      "warrantyPriceRatio": 58.536585365853654,
+      "baseSpace": 115.42
+    },
+    "stations": [
+      "노원역/중계역",
+      "창동역/방학역",
+      "수유역/쌍문역",
+      "미아사거리역",
+      "길음역/돈암역",
+      "이문역/외대앞",
+      "석계역/화랑대역",
+      "상봉역/중화역",
+      "군자역/뚝섬유원지",
+      "신림역/신대방역",
+      "봉천역/서울대입구역",
+      "구로디지털단지역",
+      "신도림역/도림천역",
+      "사당역/이수역",
+      "천호역/강동역",
+      "건대입구역/구의역",
+      "왕십리역/행당역",
+      "공덕역/마포역",
+      "연신내역/불광역",
+      "응암역/새절역",
+      "수색역/DMC역"
+    ]
+  }
+}

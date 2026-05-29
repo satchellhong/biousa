@@ -1,0 +1,9 @@
+[submodule "iac/DrugVLAB_Django_Infra"]
+	path = iac/DrugVLAB_Django_Infra
+	url = ssh://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/DrugVLAB_Django_Infra
+[submodule "tools/camofox-browser"]
+	path = tools/camofox-browser
+	url = git@github.com:satchellhong/camofox-browser.git
+[submodule "tools/opendataloader-pdf"]
+	path = tools/opendataloader-pdf
+	url = git@github.com:satchellhong/opendataloader-pdf.git

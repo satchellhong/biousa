@@ -1,0 +1,411 @@
+{
+  "iac_dir": "/Users/schong/aws_ftr/iac/DrugVLAB_Django_Infra",
+  "tf_files_scanned": 220,
+  "root_modules_found": 80,
+  "summary": {
+    "total": 35,
+    "pass": 23,
+    "fail": 0,
+    "warn": 0,
+    "manual": 12
+  },
+  "results": [
+    {
+      "id": "requirement_CIS",
+      "name": "CIS AWS Foundations Benchmark",
+      "status": "MANUAL",
+      "reason": "AWS Security Hub 활성화 여부는 IaC 외부 — 콘솔에서 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_WAFR-001",
+      "name": "Well-Architected Review",
+      "status": "MANUAL",
+      "reason": "WAFR 완료 여부는 Partner Central에서 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_ROOT-001",
+      "name": "루트 계정 액세스 키 없음",
+      "status": "MANUAL",
+      "reason": "루트 키는 IaC로 생성 불가 — 콘솔 IAM Security Credentials 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_ROOT-002",
+      "name": "루트 계정 MFA",
+      "status": "MANUAL",
+      "reason": "루트 MFA는 IaC 검증 불가 — 콘솔 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_COMM-001",
+      "name": "AWS 계정 연락처 설정",
+      "status": "MANUAL",
+      "reason": "계정 연락처는 IaC 범위 밖 — 콘솔 Account Settings 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_IAM-001",
+      "name": "IAM 역할 기반 접근",
+      "status": "PASS",
+      "reason": "IAM Role + Cognito 모듈로 역할 기반 접근 구현",
+      "evidence": [
+        "모듈: identity_access_iam, auth_cognito"
+      ]
+    },
+    {
+      "id": "requirement_IAM-002",
+      "name": "IAM 최소 권한 원칙",
+      "status": "PASS",
+      "reason": "AdministratorAccess/PowerUserAccess 정책 미사용 확인",
+      "evidence": [
+        "AdministratorAccess / PowerUserAccess 정책 없음"
+      ]
+    },
+    {
+      "id": "requirement_IAM-003",
+      "name": "정적 IAM 자격증명 금지",
+      "status": "PASS",
+      "reason": "tf 파일 내 하드코딩된 AWS 액세스 키 없음",
+      "evidence": [
+        "하드코딩된 AWS 자격증명 없음"
+      ]
+    },
+    {
+      "id": "requirement_IAM-004",
+      "name": "IAM 콘솔 사용자 MFA",
+      "status": "MANUAL",
+      "reason": "MFA 정책은 콘솔/AWS Config에서 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_IAM-005",
+      "name": "비밀번호 정책 14자 이상",
+      "status": "MANUAL",
+      "reason": "aws_iam_account_password_policy minimum_password_length >= 14",
+      "evidence": [
+        "aws_iam_account_password_policy 리소스 없음 — 콘솔에서 확인"
+      ]
+    },
+    {
+      "id": "requirement_IAM-006",
+      "name": "비밀번호 재사용 방지",
+      "status": "MANUAL",
+      "reason": "aws_iam_account_password_policy password_reuse_prevention 설정",
+      "evidence": [
+        "aws_iam_account_password_policy 리소스 없음 — 콘솔에서 확인"
+      ]
+    },
+    {
+      "id": "requirement_IAM-007",
+      "name": "Secrets Manager 사용",
+      "status": "PASS",
+      "reason": "secrets_manager 모듈 — Secrets Manager로 자격증명 관리",
+      "evidence": [
+        "모듈: secrets_manager"
+      ]
+    },
+    {
+      "id": "requirement_IAM-008",
+      "name": "SSM Parameter Store 사용",
+      "status": "PASS",
+      "reason": "discovery_ssm 모듈로 SSM Parameter Store 활용",
+      "evidence": [
+        "모듈: discovery_ssm"
+      ]
+    },
+    {
+      "id": "requirement_OPS-001",
+      "name": "CloudWatch 모니터링",
+      "status": "PASS",
+      "reason": "infra_alarms_cw 모듈로 CloudWatch 알람 구성",
+      "evidence": [
+        "모듈: infra_alarms_cw"
+      ]
+    },
+    {
+      "id": "requirement_OPS-002",
+      "name": "로그 중앙화 (S3)",
+      "status": "PASS",
+      "reason": "ALB + WAF 로그를 S3에 중앙 저장",
+      "evidence": [
+        "모듈: alb_log_storage_s3, waf_log_storage_s3"
+      ]
+    },
+    {
+      "id": "requirement_OPS-003",
+      "name": "알림/알람 설정 (SNS)",
+      "status": "PASS",
+      "reason": "alert_notifier_sns 모듈로 SNS 알람",
+      "evidence": [
+        "모듈: alert_notifier_sns"
+      ]
+    },
+    {
+      "id": "requirement_OPS-004",
+      "name": "CloudTrail 감사 로그",
+      "status": "MANUAL",
+      "reason": "aws_cloudtrail 리소스 또는 계정 수준 trail 확인",
+      "evidence": [
+        "aws_cloudtrail 리소스 없음 — 콘솔/별도 계정 수준 trail 확인 필요"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-001",
+      "name": "VPC 격리",
+      "status": "PASS",
+      "reason": "foundation_vpc 모듈로 퍼블릭/프라이빗 서브넷 격리",
+      "evidence": [
+        "모듈: foundation_vpc"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-002",
+      "name": "보안그룹 — 전체 개방 ingress 없음",
+      "status": "PASS",
+      "reason": "0.0.0.0/0 + 전체 프로토콜 ingress 규칙 탐지",
+      "evidence": [
+        "0.0.0.0/0 + 전체 프로토콜 ingress 규칙 없음"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-003",
+      "name": "기본 VPC 보안그룹 잠금",
+      "status": "MANUAL",
+      "reason": "aws_default_security_group ingress=[], egress=[] 확인",
+      "evidence": [
+        "aws_default_security_group 리소스 없음 — 콘솔에서 기본 VPC SG 확인 필요"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-004",
+      "name": "WAF 적용 + 관리형 규칙",
+      "status": "PASS",
+      "reason": "perimeter_waf 모듈 + AWSManagedRules 활성화",
+      "evidence": [
+        "enable_aws_managed_rules = true (WAF 관리형 규칙 활성화)"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-005",
+      "name": "HTTPS/TLS 강제 (ACM + ALB)",
+      "status": "PASS",
+      "reason": "generic_acm + load_balancer_alb 모듈로 HTTPS 구성",
+      "evidence": [
+        "모듈: generic_acm, load_balancer_alb"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-006",
+      "name": "S3 HTTPS-only 버킷 정책",
+      "status": "PASS",
+      "reason": "aws:SecureTransport = false deny 정책 확인",
+      "evidence": [
+        "HTTPS-only 버킷 정책(DenyInsecureTransport) 8개"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-007",
+      "name": "VPC Endpoint (프라이빗 통신)",
+      "status": "PASS",
+      "reason": "service_link_vpce — Secrets Manager 등 VPC 내부 경유",
+      "evidence": [
+        "모듈: service_link_vpce"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-008",
+      "name": "prod SSH 접근 차단",
+      "status": "PASS",
+      "reason": "prod 환경 보안그룹 SSH(22) ingress 비활성화",
+      "evidence": [
+        "prod 환경 SSH ingress 비활성화 조건 확인 (allow_ssh = false)"
+      ]
+    },
+    {
+      "id": "requirement_BKP-001",
+      "name": "DynamoDB PITR",
+      "status": "PASS",
+      "reason": "point_in_time_recovery = true / pitr_enabled = true",
+      "evidence": [
+        "DynamoDB PITR 활성화: 7개 (리소스 0 + 모듈파라미터 7)"
+      ]
+    },
+    {
+      "id": "requirement_BKP-002",
+      "name": "S3 버전 관리",
+      "status": "PASS",
+      "reason": "aws_s3_bucket_versioning status=Enabled 확인",
+      "evidence": [
+        "status = \"Enabled\" 직접 설정 10개",
+        "삼항식 패턴 6개 + enable_versioning=true 파라미터 1개"
+      ]
+    },
+    {
+      "id": "requirement_BKP-003",
+      "name": "RPO/RTO 정의",
+      "status": "MANUAL",
+      "reason": "RPO/RTO는 운영 문서(런북)에 명시 필요 — IaC 검증 불가",
+      "evidence": []
+    },
+    {
+      "id": "requirement_RES-001",
+      "name": "멀티-AZ 구성",
+      "status": "PASS",
+      "reason": "private_app_subnets 복수 AZ 확인",
+      "evidence": [
+        "AZ 4개: ['us-west-2a', 'us-west-2b', 'us-west-2c', 'us-west-2d']"
+      ]
+    },
+    {
+      "id": "requirement_RES-002",
+      "name": "로드밸런서 (ALB)",
+      "status": "PASS",
+      "reason": "load_balancer_alb 모듈",
+      "evidence": [
+        "모듈: load_balancer_alb"
+      ]
+    },
+    {
+      "id": "requirement_S3-001",
+      "name": "S3 퍼블릭 접근 차단",
+      "status": "PASS",
+      "reason": "aws_s3_bucket_public_access_block 4개 파라미터 모두 true",
+      "evidence": [
+        "aws_s3_bucket_public_access_block 10개 — 4개 파라미터 모두 true"
+      ]
+    },
+    {
+      "id": "requirement_S3-002",
+      "name": "S3 서버측 암호화 (SSE-KMS)",
+      "status": "PASS",
+      "reason": "aws_s3_bucket_server_side_encryption_configuration sse_algorithm 확인",
+      "evidence": [
+        "S3 서버측 암호화: SSE-KMS 9개, SSE-S3(AES256) 1개"
+      ]
+    },
+    {
+      "id": "requirement_DATA-001",
+      "name": "DynamoDB 저장 데이터 암호화 (SSE)",
+      "status": "PASS",
+      "reason": "server_side_encryption enabled=true / sse_enabled=true",
+      "evidence": [
+        "DynamoDB SSE: 8개 (리소스 2 + 모듈파라미터 6)"
+      ]
+    },
+    {
+      "id": "requirement_DATA-002",
+      "name": "KMS 키 자동 교체 (Key Rotation)",
+      "status": "PASS",
+      "reason": "aws_kms_key enable_key_rotation = true",
+      "evidence": [
+        "aws_kms_key 3개, enable_key_rotation = true 3개"
+      ]
+    },
+    {
+      "id": "requirement_CAA-001",
+      "name": "Cross-Account 접근 제어",
+      "status": "MANUAL",
+      "reason": "Cross-account 정책은 별도 계정 간 확인 필요",
+      "evidence": []
+    }
+  ],
+  "fail_items": [],
+  "warn_items": [],
+  "manual_items": [
+    {
+      "id": "requirement_CIS",
+      "name": "CIS AWS Foundations Benchmark",
+      "status": "MANUAL",
+      "reason": "AWS Security Hub 활성화 여부는 IaC 외부 — 콘솔에서 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_WAFR-001",
+      "name": "Well-Architected Review",
+      "status": "MANUAL",
+      "reason": "WAFR 완료 여부는 Partner Central에서 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_ROOT-001",
+      "name": "루트 계정 액세스 키 없음",
+      "status": "MANUAL",
+      "reason": "루트 키는 IaC로 생성 불가 — 콘솔 IAM Security Credentials 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_ROOT-002",
+      "name": "루트 계정 MFA",
+      "status": "MANUAL",
+      "reason": "루트 MFA는 IaC 검증 불가 — 콘솔 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_COMM-001",
+      "name": "AWS 계정 연락처 설정",
+      "status": "MANUAL",
+      "reason": "계정 연락처는 IaC 범위 밖 — 콘솔 Account Settings 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_IAM-004",
+      "name": "IAM 콘솔 사용자 MFA",
+      "status": "MANUAL",
+      "reason": "MFA 정책은 콘솔/AWS Config에서 확인",
+      "evidence": []
+    },
+    {
+      "id": "requirement_IAM-005",
+      "name": "비밀번호 정책 14자 이상",
+      "status": "MANUAL",
+      "reason": "aws_iam_account_password_policy minimum_password_length >= 14",
+      "evidence": [
+        "aws_iam_account_password_policy 리소스 없음 — 콘솔에서 확인"
+      ]
+    },
+    {
+      "id": "requirement_IAM-006",
+      "name": "비밀번호 재사용 방지",
+      "status": "MANUAL",
+      "reason": "aws_iam_account_password_policy password_reuse_prevention 설정",
+      "evidence": [
+        "aws_iam_account_password_policy 리소스 없음 — 콘솔에서 확인"
+      ]
+    },
+    {
+      "id": "requirement_OPS-004",
+      "name": "CloudTrail 감사 로그",
+      "status": "MANUAL",
+      "reason": "aws_cloudtrail 리소스 또는 계정 수준 trail 확인",
+      "evidence": [
+        "aws_cloudtrail 리소스 없음 — 콘솔/별도 계정 수준 trail 확인 필요"
+      ]
+    },
+    {
+      "id": "requirement_NETSEC-003",
+      "name": "기본 VPC 보안그룹 잠금",
+      "status": "MANUAL",
+      "reason": "aws_default_security_group ingress=[], egress=[] 확인",
+      "evidence": [
+        "aws_default_security_group 리소스 없음 — 콘솔에서 기본 VPC SG 확인 필요"
+      ]
+    },
+    {
+      "id": "requirement_BKP-003",
+      "name": "RPO/RTO 정의",
+      "status": "MANUAL",
+      "reason": "RPO/RTO는 운영 문서(런북)에 명시 필요 — IaC 검증 불가",
+      "evidence": []
+    },
+    {
+      "id": "requirement_CAA-001",
+      "name": "Cross-Account 접근 제어",
+      "status": "MANUAL",
+      "reason": "Cross-account 정책은 별도 계정 간 확인 필요",
+      "evidence": []
+    }
+  ],
+  "generated_at": "2026-04-29T15:26:15.808513"
+}

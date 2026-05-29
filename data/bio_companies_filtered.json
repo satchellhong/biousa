@@ -1,0 +1,822 @@
+[
+  {
+    "name": "Korea Institute of Radiological and Medical Sciences",
+    "type_country": "",
+    "website": "http://www.kirams.re.kr",
+    "ownership": "Public",
+    "description": "Korea Institute of Radiological & Medical Sciences is a government-funded biomedical research institute focused on translational oncology and radiological medicine. Our laboratory develops innovative targeted anticancer therapeutics, with current business development efforts centered on two differentiated kinase inhibitor programs targeting MASTL and NUAK1 for difficult-to-treat solid tumors, incl",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 5
+  },
+  {
+    "name": "HOIST Co., Ltd.",
+    "type_country": "",
+    "website": "https://hoist-jp.com/",
+    "ownership": "Private",
+    "description": "HOIST Corporation is an Osaka University-born oncology bioventure developing novel anticancer therapeutics. Our lead asset HM-001, an intravesical sodium chlorite therapy for non-muscle invasive bladder cancer (NMIBC), completed Phase I with zero adverse events and demonstrated a 6-month recurrence rate superior to BCG. A multicenter Phase II study is now underway. Our second program is a first-in",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 4
+  },
+  {
+    "name": "Everfront Biotech Inc.",
+    "type_country": "",
+    "website": "http://www.efbiotech.com",
+    "ownership": "Private",
+    "description": "Everfront Biotech is developing innovative therapies for life-threatening diseases with a focus on high unmet need, led by its late-clinical-stage neuro-oncology asset, Cerebraca® Wafer. The program has completed Phase IIa with CSR submitted, showed median overall survival of 15.7 months in recurrent glioblastoma and 26.2 months in a biomarker-defined subgroup, and has progressed into U.S. pivotal",
+    "search_keyword": "biomarker",
+    "relevant": true,
+    "relevance_score": 4
+  },
+  {
+    "name": "HanxBio",
+    "type_country": "",
+    "website": "http://hanxbio.com/",
+    "ownership": "Public",
+    "description": "Hanx Biopharma is a Hong Kong-listed clinical-stage biotechnology company advancing multiple oncology and autoimmune assets in clinical setting. Our lead program is a BsAb targeting PD1-Sirpa, addresses lymphoma patient population with unique biomarker. Our OX40-ADC is in Ph1 clinical development targeting both Lymphoma and solid tumors including cervical cancer, H&N cancer. The company is also te",
+    "search_keyword": "biomarker",
+    "relevant": true,
+    "relevance_score": 4
+  },
+  {
+    "name": "Yantai Lannacheng Biotechnology",
+    "type_country": "",
+    "website": "https://en.dc-lnc.com/",
+    "ownership": "",
+    "description": "Lannacheng (LNC) is a subsidiary of Dongcheng Pharmaceutical. We focus on developing first-in-class, integrated theranostic radiopharmaceuticals for oncology. Our pipeline covers a broad range of targets including PSMA, FAP, integrin αvβ3 and more, using small molecules, peptides, and antibodies to address prostate cancer, gliomas, neuroendocrine tumors, and other solid tumors. Backed by Dongcheng",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 3
+  },
+  {
+    "name": "AIGENDRUG",
+    "type_country": "",
+    "website": "https://www.aigendrug.com/",
+    "ownership": "Private",
+    "description": "AIGENDRUG is an AI-driven drug discovery company developing DrugVLAB™, a cloud-native platform that integrates proprietary AI models for target discovery, lead generation, drug response prediction, toxicity/ADME assessment, and human-in-the-loop optimization. Built on more than 70 peer-reviewed AI-bio publications, proprietary models, and patented technologies, AIGENDRUG helps pharmaceutical, biot",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 3
+  },
+  {
+    "name": "SyntheX",
+    "type_country": "",
+    "website": "https://www.synthexlabs.com",
+    "ownership": "Private",
+    "description": "SyntheX created an empirical drug discovery platform to discover protein proximity modulators focused on PPI disruption and Targeted Protein Degradation. ToRFLEx led to an internal first in class oncology pipeline focused on modulating established targets in novel ways. The platform is also the basis of external discovery collaborations.\" [e128]:",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 3
+  },
+  {
+    "name": "Sciomics GmbH",
+    "type_country": ".",
+    "website": "https://www.sciomics.de",
+    "ownership": "Private",
+    "description": "Sciomics provides high-content immuno-based protein and post-translational modification profiling for preclinical, translational and biomarker research. Our scioDiscover platform supports mechanism-of-action studies, toxicity assessment, patient stratification and biomarker discovery from diverse biological samples. We are seeking pharma, biotech and diagnostic partners for service collaborations ",
+    "search_keyword": "biomarker",
+    "relevant": true,
+    "relevance_score": 3
+  },
+  {
+    "name": "Cardiff Oncology",
+    "type_country": "",
+    "website": "https://cardiffoncology.com/",
+    "ownership": "Public",
+    "description": "Cardiff Oncology is a clinical-stage biotechnology company advancing innovative cancer treatments focused on PLK1 inhibition, a validated oncology target with practice-changing potential.\":",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Aurigene Oncology Ltd",
+    "type_country": "",
+    "website": "https://aurigene.com",
+    "ownership": "Private",
+    "description": "Founded in 2001, we are a clinical stage biotech company committed to the discovery and development of novel and effective therapeutics for the treatment of cancer.\" [e90]:",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Southern Oncology Clinical Research Unit",
+    "type_country": "",
+    "website": "http://www.socru.org.au",
+    "ownership": "Private",
+    "description": "A dedicated phase I oncology clinical trials unit located in Adelaide, South Australia.\" [e97]",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "OncoLab Co. Ltd.",
+    "type_country": "",
+    "website": "https://www.oncolab.co.kr",
+    "ownership": "Private",
+    "description": "OncoLab is developing ANGel, a localized combination immuno-oncology platform designed to unlock greater value from existing antibody and payload-based therapies in solid tumors. ANGel is not another ADC or bispecific antibody. It is designed to bring ADC-like tumor killing and bispecific-like immune engagement together at the injection site through sustained, localized activity. By spatially orga",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Forlong Biotechnology",
+    "type_country": "",
+    "website": "https://www.forlongbiotech.com",
+    "ownership": "Private",
+    "description": "Forlong Biotechnology is a clinical-stage biotech company focusing on transformative immune-oncology therapy based on engineered cytokines. FL115, an IL-15 superagonist, has shown best-in-class clinical profile in multiple Phase 1/2 studies and will advance to Phase 3 for NMIBC in 2027. FL116, an anti-PD1/IL-18 bispecific, has shown strong anti-tumor activities in vivo and significant safety margi",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Myllia Biotechnology GmbH",
+    "type_country": "",
+    "website": "https://www.myllia.com",
+    "ownership": "Private",
+    "description": "Myllia performs CRISPR screens for biotech and pharma clients. We perturb primary human cells and cancer cell lines with CRISPRn, CRISPRi or CRISPRa and combine it with various read-outs such as fitness, FACS, CITE-Seq or scRNA-Seq. Our CRISPR-based functional genomics platform enables drug target identification/validation in primary cellular models that ultimately translate to human disease biolo",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Optieum Biotechnologies Inc.",
+    "type_country": "",
+    "website": "https://optieumbio.com/main-en/",
+    "ownership": "Private",
+    "description": "Optieum Biotechnologies, Inc. is a peri-clinical biotechnology company developing next-generation CAR-T cell therapies. Optieum’s lead program, OPTF01, targets fibroblast activation protein alpha (FAPα) to address both tumor cells and the tumor microenvironment/Cancer Associated Fibroblasts. OPTF01 is expected to file an IND later this year, with glioblastoma as the first target indication - with ",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Drug Development Institute at The Ohio State University",
+    "type_country": "Investor",
+    "website": "https://cancer.osu.edu/ddi",
+    "ownership": "Public",
+    "description": "We're a biotech-like institute developing early stage assets at The Ohio State University Comprehensive Cancer Center. We advance oncology therapeutics from discovery though IND. We're seeking partners for out-licensing, co-development, spin-out ventures, and research support.\" [e76]:",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Kaass Discovery",
+    "type_country": "Biotech or pharma, therapeutic R&D United States",
+    "website": "http://www.kaassdiscovery.com",
+    "ownership": "Private",
+    "description": "Kaass Discovery is a Norwegian biotechnology company, developing a first-in-class immunomodulation platform designed to recalibrate dysregulated immune activation while preserving immune competence. This platform is validated through independent, blinded preclinical studies conducted with global CROs, and grounded in clinical pathway validation as well as translational biology. See More\":",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "BrainStorm Therapeutics, Inc.",
+    "type_country": "week ago",
+    "website": "https://www.brainstormtherapeutics.org",
+    "ownership": "Private",
+    "description": "BrainStorm Therapeutics (BST) is a precision neuroscience startup developing an AI-powered human brain organoid platform for CNS drug discovery and therapeutic development. The company focuses on rare genetic neurodevelopmental and neurodegenerative disorders. BST integrates patient-derived brain organoid disease models, artificial intelligence, and translational neuroscience to accelerate target ",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Therorna Inc.",
+    "type_country": "CAR-T platform, with a lead asset currently in an IIT trail, alongside an ongoing Phase I clinical trial for a cancer vaccine.",
+    "website": "https://www.therorna.com/",
+    "ownership": "Private",
+    "description": "",
+    "search_keyword": "RNA-seq",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Matter Biosciences, Inc",
+    "type_country": "",
+    "website": "https://www.bio.org/privacy-policy",
+    "ownership": "Private",
+    "description": "Matter Bio is a biotechnology company developing precision genomic technologies and oncology therapeutics. The company is seeking co-development and strategic partners for its attenuated Listeria-based solid-tumor therapeutic program, including PDAC and other difficult-to-treat solid tumors, and for its Listeria tumor-targeted delivery platform, which can deliver diverse payloads such as chemother",
+    "search_keyword": "RNA-seq",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "QuadMedicine, Inc.",
+    "type_country": "Biotech or pharma, therapeutic R&D China",
+    "website": "http://www.quadmedicine.com/en",
+    "ownership": "Private",
+    "description": "QuadMedicine is a clinical-stage CDMO specializing in Microneedle Array Patch (MAP) technology, enabling needle-free delivery of vaccines and biologics. We offer an end-to-end integrated platform from formulation development to GMP manufacturing, enabling scalable and globally accessible therapeutics.\" [e34]:",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "BodMed",
+    "type_country": "",
+    "website": "https://www.23andme.com/partner/",
+    "ownership": "Private",
+    "description": "BodMed is a clinical-stage biotech dedicated to the development of Non-viral, Non-LNP based Inhaled and Oral \\\" [e40]Mucosal RNA Medicines\\\" (mRNA and siRNA), targeting mucosa-related diseases (e.g., Lung Cancer, Cystic Fibrosis, GI tract tumors, IBD, etc.). BodMed has built a proprietary, end-to-end closed-loop R&D platform that spans the entire value chain of mucosal RNA therapeutic development—",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Aurigon GmbH",
+    "type_country": "",
+    "website": "http://www.aurigon.eu/",
+    "ownership": "Private",
+    "description": "Aurigon is an independent CRO dedicated to non-clinical services. Since 2000 we are a trusted partner in drug-development by providing a full range of experimental services in pharmacology, bio-/analytics, ADME and toxicology.\" [e77]:",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "SpiroChem",
+    "type_country": "",
+    "website": "http://www.spirochem.com",
+    "ownership": "Private",
+    "description": "SpiroChem is the leading synthetic and medicinal chemistry service provider, specialized in accelerating Hit-to-Candidate projects for Biotechs/Pharma. Drug Discovery projects at SpiroChem are centered on most productive areas of chemical space. We have deep expertise in modalities such as macrocycles, peptides, degraders, RLTs, ...\":",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "FIRALIS Molecular Precision",
+    "type_country": "",
+    "website": "https://firalismolecularprecision.com/",
+    "ownership": "Private",
+    "description": "Firalis Molecular Precision (FMP) is a GCLP-accredited multi-omics CRO and part of the Janvier Group. We support biomarker-driven programs across discovery, preclinical, and clinical stages; from target validation and biomarker discovery through to regulatory-grade clinical sample analysis and patient stratification packages. Therapeutic area agnostic, FMP partners with biotech and pharma companie",
+    "search_keyword": "biomarker",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Allarity Therapeutics",
+    "type_country": "to refine patient selection and improve clinical outcomes. Publicly traded on NASDAQ, Allarity (ALLR) is headquartered in Boston, MA, while maintaining an R&D facility in Hoersholm, Denmark. Allarity is committed to enhancing patient outcomes through improved decision-making and personalized cancer care.",
+    "website": "https://allarity.com",
+    "ownership": "Public",
+    "description": "Allarity Therapeutics is a clinical-stage precision medicine company actively advancing stenoparib, an orally available, small molecule inhibitor for patients with advanced recurrent ovarian cancer. The company is leveraging its proprietary, highly accurate Drug Response Predictor (DRP®) technology to refine patient selection and improve clinical outcomes. Publicly traded on NASDAQ, Allarity (ALLR",
+    "search_keyword": "drug toxicity",
+    "relevant": true,
+    "relevance_score": 2
+  },
+  {
+    "name": "Irazu Oncology",
+    "type_country": "",
+    "website": "http://www.irazuoncology.com",
+    "ownership": "Private",
+    "description": "",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Theradex Oncology",
+    "type_country": "",
+    "website": "http://www.theradex.com/",
+    "ownership": "Private",
+    "description": "Theradex Oncology is a full-service CRO, conducting early to late phase oncology trials in the US, EU and Asia.\" [e48]:",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "ALX Oncology",
+    "type_country": "",
+    "website": "https://alxoncology.com/",
+    "ownership": "Public",
+    "description": "ALX Oncology is a clinical stage biotechnology company. Our two clinical stage candidates are the CD47 inhibitor, evorpacept, and the EGFR-targeted top1i ADC, ALX2004.\":",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Duo Oncology",
+    "type_country": "",
+    "website": "https://www.duooncology.com/",
+    "ownership": "Private",
+    "description": "Duo Oncology, backed by BeOne Medicines, is replacing multi-agent chemotherapy with single-infusion prodrugs. Its lead program, DUO-207, is a gemcitabine / paclitaxel combo prodrug medicine designed to create a stronger, safer foundation for targeted and immunotherapy combinations.With a favorable FDA pre-IND interaction and preclinical studies completed, Duo is advancing DUO-207 through an adapti",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Axelia Oncology",
+    "type_country": ". We are seeking discussions with potential partners to understand their interests.",
+    "website": "https://www.axeliaoncology.com",
+    "ownership": "Private",
+    "description": "AXA-042 is a systemic TLR2/6 agonist for innate immune stimulation. Our Ph1b trial progressing well and data show clear clinical benefit in advanced solid tumours. We are seeking discussions with potential partners to understand their interests.\" [e69]:",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Oncology Ventures",
+    "type_country": "Investor",
+    "website": "https://www.sanavia.bio",
+    "ownership": "Private",
+    "description": "",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Sanavia Oncology Inc.",
+    "type_country": "",
+    "website": "https://www.sanavia.bio",
+    "ownership": "Private",
+    "description": "",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Neovia Oncology, LLC",
+    "type_country": "Member",
+    "website": "https://www.neoviaoncology.com/",
+    "ownership": "Private",
+    "description": "",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "General Oncology, Inc.",
+    "type_country": "",
+    "website": "https://www.generaloncology.com",
+    "ownership": "Private",
+    "description": "",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Cure Lab Oncology",
+    "type_country": "",
+    "website": "https://www.CureLab.com",
+    "ownership": "Private",
+    "description": "",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Ever Supreme Bio Technology",
+    "type_country": "Biotech or pharma, therapeutic R&D France",
+    "website": "https://www.ever-supreme.com.tw",
+    "ownership": "Public",
+    "description": "",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "IMBiologics",
+    "type_country": "",
+    "website": "https://imbiologics.com/",
+    "ownership": "Public",
+    "description": "IMBiologics (IMB) is a publicly traded, clinical-stage biopharmaceutical company focused on developing differentiated biologic therapies for immunology and inflammation (I&I) and cancer. By integrating innovative target biology with advanced antibody engineering and proprietary multivalent platform technologies, the company is advancing a pipeline of next-generation therapeutics designed to addres",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Golden Biotechnology Corp.",
+    "type_country": "Biotech or pharma, therapeutic R&D; Biotech or pharma... United States",
+    "website": "https://www.goldenbiotech.com/en",
+    "ownership": "Public",
+    "description": "",
+    "search_keyword": "oncology",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Kinaset Therapeutics, Inc.",
+    "type_country": "",
+    "website": "http://www.kinasettherapeutics.com",
+    "ownership": "Private",
+    "description": "Developing novel therapeutics that can positively impact patients affected by intractable diseases, including severe asthma.\" [e34]",
+    "search_keyword": "kinase",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Anasens Inc",
+    "type_country": "",
+    "website": "https://www.anasens.com/",
+    "ownership": "Public",
+    "description": "Anasens is developing a rapid, quantitative DNA nanosensor platform that brings lab-quality molecular and therapeutic monitoring closer to the patient. Our handheld reader and disposable cartridge are designed to measure drugs and biomarkers from small samples within minutes, enabling decentralized decisions in clinical, workplace, and field settings. We are seeking pharma and biotech partners to ",
+    "search_keyword": "kinase",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Synthekine",
+    "type_country": "",
+    "website": "https://www.synthekine.com/",
+    "ownership": "Private",
+    "description": "Synthekine is a clinical-stage biotech focusing on multi-modality cytokine therapeutics based on technology developed in Chris Garcia’s lab at Stanford University. Synthekine uses immunological insights to guide targeted protein engineering to develop disease-optimized treatments for cancer, immunological, and metabolic disorders. Synthekine has two clinical stage assets (NCT05098132 and NCT056650",
+    "search_keyword": "kinase",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Kine Sciences",
+    "type_country": "Biotech or pharma, therapeutic R&D; Biotech or pharma... United Kingdom",
+    "website": "http://kinesciences.com/",
+    "ownership": "Private",
+    "description": "KINE SCIENCES is a clinical-stage biotech company developing ultra-small immunomodulatory peptide therapeutics that leverage functional immunology to address chronic neuroinflammatory and autoimmune diseases. We first identified ERDR1, a cytokine with strong anti-inflammatory properties, then mapped its key functional domains. Based on these domains, we synthesized a broad set of functional peptid",
+    "search_keyword": "kinase",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Kiniksa Pharmaceuticals",
+    "type_country": "Dinamo provides blood-based cfDNA biomarker solutions designed specifically for Immunology indications.",
+    "website": "http://www.kiniksa.com/",
+    "ownership": "Public",
+    "description": "Led by a team of distinguished life sciences leaders, Kiniksa is a global biopharmaceutical company that identifies, discovers, and delivers novel treatments for patients with a significant unmet need.\" [e121]",
+    "search_keyword": "kinase",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Cedars-Sinai Medical Center",
+    "type_country": "supports global biotech sponsors to plan and deliver clinical trials in Australia through",
+    "website": "https://www.cedars-sinai.org/",
+    "ownership": "Private",
+    "description": "Cedars-Sinai Technology Ventures is seeking out-licensing and partnership opportunities. Our portfolio covers cancer small molecule and cell therapies, acne vaccine, diagnostic assays in cancer and urology, image analysis, etc.\" [e159]",
+    "search_keyword": "kinase",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Axcelead Drug Discovery Partners",
+    "type_country": "Investor",
+    "website": "https://axcelead-us.com/",
+    "ownership": "Private",
+    "description": "Axcelead Drug Discovery Partners is an integrated solutions provider in drug discovery and non-clinical research. We are uniquely positioned having carved out a Preclinical R&D Discovery Unit from Takeda Pharmaceuticals.\" [e34]",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Alzheimer's Drug Discovery Foundation",
+    "type_country": "Investor",
+    "website": "http://www.alzdiscovery.org/",
+    "ownership": "",
+    "description": "",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Dalriada Drug Discovery Inc.",
+    "type_country": "",
+    "website": "https://iclasscube.com",
+    "ownership": "Private",
+    "description": "Dalriada is a Canadian small molecule discovery company focusing on unlocking challenging and undruggable targets leveraging its MS and proprietary multi-(chemo)proteomics platforms including iCLASS and iCLASS DB. Visit www.iclasscube.com for more info on the platforms or contacts us at bdev@dalriadatx.com.\" [e49]:",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Kyoto Drug Discovery and Development Co.,Ltd",
+    "type_country": "",
+    "website": "https://www.kyoto-drug.com",
+    "ownership": "Private",
+    "description": "Kyoto Drug Discovery & Development Co., Ltd. (KDDD) is a clinical-stage biotech company originating from Kyoto University in Japan. Its lead compound, KUS121, is a novel neuroprotective agent that preserves cellular energy and prevents cell death. Initially developed for Central Retinal Artery Occlusion (CRAO)—a sight-threatening emergency with no approved therapies—KUS121 has shown promising effi",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Sygnature Discovery",
+    "type_country": "",
+    "website": "https://www.sygnaturediscovery.com/",
+    "ownership": "Private",
+    "description": "Sygnature Discovery is a leading provider of integrated drug discovery and pre-clinical development services\" [e155]",
+    "search_keyword": "AI drug discovery",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Translational Research Institute (TRI)",
+    "type_country": "",
+    "website": "https://www.tri.edu.au/",
+    "ownership": "Private",
+    "description": "The Translational Research Institute (TRI) is a leading Australian biomedical research and translation organisation connecting research, clinical development, and industry within a single integrated ecosystem. TRI is home to more than 1,100 researchers, clinicians, and industry personnel supporting the development of new therapies, vaccines, and health technologies. Within the TRI ecosystem, ENTRI",
+    "search_keyword": "translational",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "OSU Biotechnology Translational Institute",
+    "type_country": "",
+    "website": "https://www.tgen.org/",
+    "ownership": "",
+    "description": "",
+    "search_keyword": "translational",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "National Cancer Center, Korea",
+    "type_country": "",
+    "website": "https://ncc.re.kr/indexEn.ncc",
+    "ownership": "Public",
+    "description": "",
+    "search_keyword": "translational",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "National Comprehensive Cancer Network",
+    "type_country": "",
+    "website": "https://www.nccn.org/",
+    "ownership": "",
+    "description": "NCCN Mission and Vision Who we areAn alliance of leading cancer centers devoted to patient care, research, and education Why we exist (Our Mission) To define and advance quality, effective, equitable, and accessible cancer care and prevention so all people can live better lives Our Vision Access to high-quality, high-value, patient-centered cancer care for all people globally See More\" [e120]:",
+    "search_keyword": "translational",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Neurovation Labs, Inc.",
+    "type_country": "",
+    "website": "https://www.neurovationlabs.com",
+    "ownership": "Private",
+    "description": "Neurovation Labs is a neuroscience company developing precision neuromodulators and biomarker-based diagnostics for circuit-level brain dysfunction. Its platform leverages TARP proteins to achieve unmatched selectivity, unlocking a pipeline of small molecules for CNS disorders with high unmet needs, including PTSD, aggression in Alzheimer’s and autism, and traumatic brain injury.The company's lead",
+    "search_keyword": "translational",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Umecrine Cognition AB",
+    "type_country": "",
+    "website": "http://www.umecrinecognition.com/",
+    "ownership": "Private",
+    "description": "Umecrine Cognition is a clinical-stage biopharmaceutical company developing first-in-class neurosteroid modulators targeting CNS dysfunction across liver disease and neurodegeneration. Its lead program, golexanolone, is advancing in PBC-associated fatigue and cognitive impairment, supported by translational clinical data. The company also develops next-generation compounds and leverages receptor-b",
+    "search_keyword": "translational",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Reborna Biosciences, Inc.",
+    "type_country": "",
+    "website": "https://rebornabiosciences.com/en/",
+    "ownership": "Private",
+    "description": "Unlocking RNA Biology with Small MoleculesA Differentiated Partnering Opportunity Reborna Biosciences is a biotech start-up company which leverages its original drug discovery systems using full-length mRNA for RNA insight(R) / mini gene for RNA Domino(R) to identify and develop promising RNA-targeting small molecule therapies for diseases with high UMNs. While RNA therapeutics are advancing rapid",
+    "search_keyword": "RNA-seq",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Therna Biosciences",
+    "type_country": "Therorna Inc. is a clinical-stage biotechnology company pioneer in circular RNA (circRNA) filed. Built on its proprietary splint-free enzymatic circularization platform and targeted LNP delivery technology, the company develops innovative circRNA-based therapies to address high unmet medical needs in oncology and autoimmune diseases. As a global leader in this field, Therorna successfully completed the world’s first circRNA clinical trial in 100 healthy volunteers, followed by the world’s first IND-approved circRNA oncology therapy. To efficiently advance clinical development, Therorna has established a 16,000 sq ft in-house GMP production facility with robust, end-to-end manufacturing capabilities. The company is aggressively advancing its pipeline, highlighted by its innovative",
+    "website": "https://therna.com/",
+    "ownership": "Private",
+    "description": "A team of seasoned operatives joined forces with leading investigators in RNA biology and AI to build a category defining RNA design company.\" [e115]:",
+    "search_keyword": "RNA-seq",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "bYoRNA",
+    "type_country": "",
+    "website": "http://bYoRNA",
+    "ownership": "Private",
+    "description": "bYoRNA is a French biotechnology company developing a cost-efficient and scalable platform for producing self-amplifying (saRNA) and long mRNA. Our patented technology uses recombinant yeast cells to produce longer, more efficient and less immunogenic RNA at a fraction of the current cost. This is especially relevant for oncological mRNA vaccines and gene therapy. We have secured 3M€ of grants and",
+    "search_keyword": "RNA-seq",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Interna Therapeutics",
+    "type_country": "Biotech or pharma, therapeutic R&D; Digital health; M... United States",
+    "website": "https://interna.bio/",
+    "ownership": "Private",
+    "description": "Interna’s technology unlocks the full potential of macromolecule therapeutics by addressing the critical challenge of intracellular delivery.\" [e189]:",
+    "search_keyword": "RNA-seq",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Hesperos, Inc.",
+    "type_country": "",
+    "website": "https://www.hesperosinc.com/",
+    "ownership": "Private",
+    "description": "Hesperos is accelerating drug discovery by providing safety and efficacy testing services using its Human-on-a-Chip system. This breakthrough technology enables unprecedented insight into the human response to therapeutics.\" [e147]",
+    "search_keyword": "drug response",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Zonsen PepLib BioTech Ltd.",
+    "type_country": "",
+    "website": "http://peplib.com/",
+    "ownership": "Private",
+    "description": "PepLib is a biotech specializing in peptide drug discovery. Leveraging a cutting-edge discovery platform, PepLib develops highly potent peptides for diverse therapeutic applications. Its pipelines include peptide radioligands (RLT), peptide drug conjugates, peptide oligonucleotide conjugates and peptide antagonists/agonists. PepLib actively seeks partnerships to accelerate development and out-lice",
+    "search_keyword": "drug response",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Prestige Biopharma Limited",
+    "type_country": "",
+    "website": "https://www.prestigebio.com/",
+    "ownership": "Public",
+    "description": "Prestige Group has a comprehensive value chain platform, encompassing the entire drug discovery cycle, from R&D to manufacturing, clinical development, regulatory registration and commercialization, bringing innovative therapeutics to the market seamlessly and efficiently to address unmet medical needs.\" [e177]:",
+    "search_keyword": "drug response",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Levine Tox Consulting",
+    "type_country": "",
+    "website": "https://LevineToxConsulting.com",
+    "ownership": "Private",
+    "description": "Levine Tox Consulting provides consultation services in all phases of toxicology/nonclinical drug development. Experience includes several classes of small molecules, biologics including proteins & monoclonal antibodies, biosimilars, and medical devices.\" [e206]",
+    "search_keyword": "drug response",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "23andMe",
+    "type_country": "",
+    "website": "https://www.23andme.com/partner/",
+    "ownership": "Private",
+    "description": "23andMe translates genomics data from the world's largest recontactable human genetic database into new insights for drug discovery.\" [e48]:",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "SPECCRO Inc.",
+    "type_country": "",
+    "website": "https://speccro.com",
+    "ownership": "",
+    "description": "SPECCRO Offers SPECCRO Inc. is the first specialized research organization built to leverage traditional drug development paradigm with New Approach Methodologies (NAMs) with less reliance on animals, technology-driven solutions for preclinical efficacy and safety assessment. Designed to bridge the “Valley of Death” in translational science, SPECCRO delivers robust, human-centric in vitro datasets",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Medtech Barcelona",
+    "type_country": "",
+    "website": "https://medtechbcn.com/",
+    "ownership": "Private",
+    "description": "MedTech Barcelona is a biotech company specializing in advanced in vitro solutions via the use of a unique technology enabling cell shipping at room temperature. Focused on ready-to-use, cell-based solutions for preclinical and clinical testing, particularly ADME-Tox, such as absorption studies, transporter interactions and toxicity testing, MedTech Barcelona offers 20 years of experience serving ",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Concept Life Sciences",
+    "type_country": "is a premier CRO offering end-to-end drug discovery, development, and manufacturing services, backed by a highly skilled scientific team, modern facilities, and a strong track record of advancing therapies from concept to clinic - often, in significantly shorter timelines than the industry average. Our approach is highly collaborative whether we are providing integrated or standalone services. We focus on providing excellent science and delivery to our clients for every project.",
+    "website": "https://www.conceptlifesciences.com/",
+    "ownership": "Private",
+    "description": "Concept Life Sciences is a premier CRO offering end-to-end drug discovery, development, and manufacturing services, backed by a highly skilled scientific team, modern facilities, and a strong track record of advancing therapies from concept to clinic - often, in significantly shorter timelines than the industry average. Our approach is highly collaborative whether we are providing integrated or st",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Selvita S.A.",
+    "type_country": "",
+    "website": "https://www.selvita.com",
+    "ownership": "Public",
+    "description": "Selvita is a drug discovery and development partner for the pharmaceutical and biotechnology industries.\" [e154]",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Novalix",
+    "type_country": "",
+    "website": "https://novalix.com/contact/",
+    "ownership": "Private",
+    "description": "Novalix is a premier contract research organization, dedicated to improving the critical early stages of drug discovery, combining exceptional scientific talent and exclusive technology.\" [e168]",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Oryzon Genomics, S.A.",
+    "type_country": "",
+    "website": "https://www.oryzon.com/",
+    "ownership": "Public",
+    "description": "Oryzon is a public clinical-stage biopharma developing epigenetics for CNS disorders and Oncology. +50 highly-qualified professionals located in Barcelona, Boston, NYC and San Diego. Listed in Spain, aiming at NASDAQ-listing.\" [e196]",
+    "search_keyword": "ADME",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "AMPEL BioSolutions",
+    "type_country": "Business activity in 2026 is focused on expanding Pharma partners & commercialization of AMPEL's clinical care tests for Lupus and Derm patients.",
+    "website": "http://www.ampelbiosolutions.com/",
+    "ownership": "Private",
+    "description": "AMPEL's AI platform of dynamic RNA-analytic tools predicts drug responders for two customer verticals, Pharma/Biotech and Clinical Care, across inflammatory & autoimmune disease areas including Lupus, Derm, Cardiology, Nephritis, IBD and RA. Biomarker customers can be found at https://ampelbiosolutions.com/strategic-partners/. The Lupus Foundation of America calls AMPEL's LuGENE prognostic blood t",
+    "search_keyword": "biomarker",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Myomar Molecular",
+    "type_country": "",
+    "website": "https://www.myomarmolecular.com",
+    "ownership": "Private",
+    "description": "Myomar Molecular is a Canadian biotechnology company pioneering precision diagnostics for muscle health and healthy aging. Leveraging proprietary molecular biomarker technology, Myomar has developed the world’s first urine-based muscle health assessment designed to detect early signs of muscle decline before symptoms become visible. The company’s clinically informed platform provides actionable in",
+    "search_keyword": "biomarker",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Crux Biolabs",
+    "type_country": "",
+    "website": "https://www.cruxbiolabs.com",
+    "ownership": "Private",
+    "description": "Now marking 15 years, Crux Biolabs is an Australian bioanalytical laboratory specialising in PBMC processing, pharmacodynamics (biomarkers, flow cytometry and ADA) and pharmacokinetics (large and small molecules) for clinical research. See More\" [e102]:",
+    "search_keyword": "biomarker",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "BioVentures, University of Arkansas for Medical Sciences",
+    "type_country": "Biotech or pharma, therapeutic R&D United States",
+    "website": "https://bioventures.tech/",
+    "ownership": "",
+    "description": "BioVentures, LLC is the technology transfer office and life sciences commercialization arm for the University of Arkansas for Medical Sciences. We work with academic innovators, industry partners, investors, and entrepreneurs to advance promising biomedical discoveries from the research setting toward real-world impact. Our portfolio includes early-stage technologies across therapeutics, diagnosti",
+    "search_keyword": "biomarker",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Nissan Chemical Corporation",
+    "type_country": "Biotech or pharma, therapeutic R&D Canada",
+    "website": "http://www.nissanchem.co.jp/eng/",
+    "ownership": "Public",
+    "description": "NISSAN CHEMICAL is a Japan-based chemical company and looking for:-Partner companies for our assets-Joint research opportunities using our oligonucleotide chemistry platform-Joint R&D collaborations for cell manufacturing for regenerative medicine-Process development and manufacturing of peptides\" [e63]:",
+    "search_keyword": "computational chemistry",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "X-Chem, Inc",
+    "type_country": "",
+    "website": "https://www.x-chemrx.com",
+    "ownership": "Private",
+    "description": "X-Chem is the premier partner for small molecule drug discovery, empowering biotech and pharma teams to advance breakthrough therapeutics through integrated, data-driven discovery. From hit ID to candidate, we align with your goals to accelerate development and reduce risk. With a proven track record across 100+ partnered programs and 15 clinical-stage assets, X-Chem offers the scale, flexibility,",
+    "search_keyword": "computational chemistry",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "InSilicoTrials",
+    "type_country": "",
+    "website": "https://www.insilicotrials.com",
+    "ownership": "Private",
+    "description": "InSilicoTrials is an FDA- and EMA-aligned AI company generating regulatory-compliant evidence through advanced in silico methodologies. Our platform combines simulation, predictive intelligence, and digital twins to accelerate the entire drug development lifecycle, from discovery to clinical trials and commercialization. By enabling virtual patients, optimized protocols, and data-driven decision m",
+    "search_keyword": "drug toxicity",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Model Medicines, Inc.",
+    "type_country": ".",
+    "website": "https://www.modelmedicines.com/",
+    "ownership": "Private",
+    "description": "Model Medicines is a biotechnology company engineering first-in-class small molecules that target the biological linchpins underlying disease. The company’s research spans virology, oncology, and inflammation, with programs designed around conserved biological choke points that drive multiple pathologies. Model Medicines had discovered a direct-acting, non-nucleoside, broad-spectrum antiviral and ",
+    "search_keyword": "drug toxicity",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "InSilico Medicine",
+    "type_country": "for drug discovery and development. Founded in 2014, the company is headquartered in Boston and operates at the intersection of biology, chemistry, and high-performance computing to accelerate the development of novel therapeutics.",
+    "website": "http://insilico.com/",
+    "ownership": "Public",
+    "description": "",
+    "search_keyword": "drug toxicity",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "Adelaide University",
+    "type_country": "",
+    "website": "https://www.adelaide.edu.au/",
+    "ownership": "",
+    "description": "Adelaide University is a Group of Eight university, ranked in the Top 100 universities in the World, with researcher reputation for excellence in health, medical and life-sciences research and education.The University’s expertise spans biomedical research, drug discovery from targets to clinical trials, and population health studies. University research themes cover the life course - from reproduc",
+    "search_keyword": "drug toxicity",
+    "relevant": true,
+    "relevance_score": 1
+  },
+  {
+    "name": "National Comprehensive Cancer Network Foundation",
+    "type_country": "",
+    "website": "http://www.NCCNFOUNDATION.org",
+    "ownership": "",
+    "description": "The National Comprehensive Cancer Network Foundation (NCCNF) translates complex guidelines into easily accessible patient resources - and supports the next generation of researchers driving future breakthroughs.We seek strategic collaborations and charitable funding to support NCCNF's efforts to increase cancer health literacy and empower people facing cancer to engage in shared decision making wi",
+    "search_keyword": "patient stratification",
+    "relevant": true,
+    "relevance_score": 1
+  }
+]

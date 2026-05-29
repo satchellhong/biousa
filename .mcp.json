@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aws-ftr": {
+      "command": "/Users/schong/miniconda/envs/aws_ftr/bin/python",
+      "args": ["src/server.py"],
+      "cwd": "/Users/schong/aws_ftr"
+    }
+  }
+}

@@ -1,0 +1,7968 @@
+{
+  "128914": {
+    "complexNumber": 128914,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.960524,
+      "yCoordinate": 37.557655
+    },
+    "useApprovalDate": "20200123",
+    "totalHouseholdNumber": 24,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 30.43
+  },
+  "102804": {
+    "complexNumber": 102804,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.960767,
+      "yCoordinate": 37.562616
+    },
+    "useApprovalDate": "20060303",
+    "totalHouseholdNumber": 16,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 999000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      },
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 220000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 47.64
+  },
+  "103728": {
+    "complexNumber": 103728,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.961015,
+      "yCoordinate": 37.564313
+    },
+    "useApprovalDate": "20031213",
+    "totalHouseholdNumber": 10,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 92.54
+  },
+  "124991": {
+    "complexNumber": 124991,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.999869,
+      "yCoordinate": 37.572799
+    },
+    "useApprovalDate": "20190307",
+    "totalHouseholdNumber": 72,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 23.05
+  },
+  "163819": {
+    "complexNumber": 163819,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.96093,
+      "yCoordinate": 37.563214
+    },
+    "useApprovalDate": "20030529",
+    "totalHouseholdNumber": 10,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 107.15
+  },
+  "156797": {
+    "complexNumber": 156797,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.97007,
+      "yCoordinate": 37.56859
+    },
+    "useApprovalDate": "19711110",
+    "totalHouseholdNumber": 62,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 52.79
+  },
+  "15835": {
+    "complexNumber": 15835,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.999204,
+      "yCoordinate": 37.567814
+    },
+    "useApprovalDate": "19690420",
+    "totalHouseholdNumber": 25,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 36.5
+  },
+  "13301": {
+    "complexNumber": 13301,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.961656,
+      "yCoordinate": 37.561354
+    },
+    "useApprovalDate": "20010421",
+    "totalHouseholdNumber": 6,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 400000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 148.3
+  },
+  "102936": {
+    "complexNumber": 102936,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.961409,
+      "yCoordinate": 37.562036
+    },
+    "useApprovalDate": "20040730",
+    "totalHouseholdNumber": 19,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 350000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 102.09
+  },
+  "126600": {
+    "complexNumber": 126600,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.000375,
+      "yCoordinate": 37.572548
+    },
+    "useApprovalDate": "20190708",
+    "totalHouseholdNumber": 16,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 210000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 37606438
+    },
+    "baseSpace": 18.46
+  },
+  "103350": {
+    "complexNumber": 103350,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.961174,
+      "yCoordinate": 37.561836
+    },
+    "useApprovalDate": "20050502",
+    "totalHouseholdNumber": 36,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1300000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      },
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 300000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 103.75
+  },
+  "132163": {
+    "complexNumber": 132163,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.962487,
+      "yCoordinate": 37.561248
+    },
+    "useApprovalDate": "20200117",
+    "totalHouseholdNumber": 199,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 44.76
+  },
+  "3486": {
+    "complexNumber": 3486,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.958704,
+      "yCoordinate": 37.561184
+    },
+    "useApprovalDate": "19751111",
+    "totalHouseholdNumber": 78,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1568500000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      },
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 150000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 87.95
+  },
+  "109582": {
+    "complexNumber": 109582,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.999953,
+      "yCoordinate": 37.563433
+    },
+    "useApprovalDate": "20160610",
+    "totalHouseholdNumber": 171,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 220000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 210000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 21110963
+    },
+    "baseSpace": 34.45
+  },
+  "123847": {
+    "complexNumber": 123847,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.001953,
+      "yCoordinate": 37.564417
+    },
+    "useApprovalDate": "20181204",
+    "totalHouseholdNumber": 29,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 450000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 47649047
+    },
+    "baseSpace": 31.22
+  },
+  "127979": {
+    "complexNumber": 127979,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.999687,
+      "yCoordinate": 37.564251
+    },
+    "useApprovalDate": "20191122",
+    "totalHouseholdNumber": 27,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 25.88
+  },
+  "132162": {
+    "complexNumber": 132162,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.962487,
+      "yCoordinate": 37.561254
+    },
+    "useApprovalDate": "20200117",
+    "totalHouseholdNumber": 300,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 29.76
+  },
+  "130584": {
+    "complexNumber": 130584,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.999477,
+      "yCoordinate": 37.563311
+    },
+    "useApprovalDate": "20200423",
+    "totalHouseholdNumber": 28,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 340000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 315000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 33511237
+    },
+    "baseSpace": 33.54
+  },
+  "167120": {
+    "complexNumber": 167120,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.96009,
+      "yCoordinate": 37.568318
+    },
+    "useApprovalDate": "20240328",
+    "totalHouseholdNumber": 29,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1390000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1070000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 46060957
+    },
+    "baseSpace": 99.76
+  },
+  "16574": {
+    "complexNumber": 16574,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.97294,
+      "yCoordinate": 37.57131
+    },
+    "useApprovalDate": "19811123",
+    "totalHouseholdNumber": 24,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1100000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 36988744
+    },
+    "baseSpace": 98.31
+  },
+  "122844": {
+    "complexNumber": 122844,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.001395,
+      "yCoordinate": 37.565278
+    },
+    "useApprovalDate": "20200820",
+    "totalHouseholdNumber": 157,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 200000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 28461343
+    },
+    "baseSpace": 23.23
+  },
+  "133562": {
+    "complexNumber": 133562,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.99144,
+      "yCoordinate": 37.568579
+    },
+    "useApprovalDate": "20200911",
+    "totalHouseholdNumber": 24,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 210000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 28949743
+    },
+    "baseSpace": 23.98
+  },
+  "113889": {
+    "complexNumber": 113889,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.998713,
+      "yCoordinate": 37.573234
+    },
+    "useApprovalDate": "20151215",
+    "totalHouseholdNumber": 27,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 160000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 28575126
+    },
+    "baseSpace": 18.51
+  },
+  "16694": {
+    "complexNumber": 16694,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.00079,
+      "yCoordinate": 37.56082
+    },
+    "useApprovalDate": "19820403",
+    "totalHouseholdNumber": 70,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 720000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 28798127
+    },
+    "baseSpace": 82.65
+  },
+  "25690": {
+    "complexNumber": 25690,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.982548,
+      "yCoordinate": 37.572366
+    },
+    "useApprovalDate": "20080605",
+    "totalHouseholdNumber": 54,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1700000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 31289095
+    },
+    "baseSpace": 179.61
+  },
+  "1278": {
+    "complexNumber": 1278,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.973685,
+      "yCoordinate": 37.571424
+    },
+    "useApprovalDate": "19811231",
+    "totalHouseholdNumber": 48,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 940000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 830000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 33284467
+    },
+    "baseSpace": 93.36
+  },
+  "15838": {
+    "complexNumber": 15838,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.967194,
+      "yCoordinate": 37.559492
+    },
+    "useApprovalDate": "19710620",
+    "totalHouseholdNumber": 68,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 265000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 21201186
+    },
+    "baseSpace": 41.32
+  },
+  "16732": {
+    "complexNumber": 16732,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.991626,
+      "yCoordinate": 37.559793
+    },
+    "useApprovalDate": "19991125",
+    "totalHouseholdNumber": 39,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 16,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 81.99
+  },
+  "7959": {
+    "complexNumber": 7959,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.973305,
+      "yCoordinate": 37.572764
+    },
+    "useApprovalDate": "19940531",
+    "totalHouseholdNumber": 60,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 600000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 105.12
+  },
+  "25593": {
+    "complexNumber": 25593,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.969576,
+      "yCoordinate": 37.563189
+    },
+    "useApprovalDate": "20060929",
+    "totalHouseholdNumber": 84,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 8,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 680000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 630000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 26270115
+    },
+    "baseSpace": 85.57
+  },
+  "11828": {
+    "complexNumber": 11828,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.987701,
+      "yCoordinate": 37.572203
+    },
+    "useApprovalDate": "19680915",
+    "totalHouseholdNumber": 149,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 14,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 535000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 25047372
+    },
+    "baseSpace": 70.61
+  },
+  "100500": {
+    "complexNumber": 100500,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.971957,
+      "yCoordinate": 37.573599
+    },
+    "useApprovalDate": "20040517",
+    "totalHouseholdNumber": 150,
+    "isVrExposed": false,
+    "viewCount": 10,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 1500000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 173.07
+  },
+  "3832": {
+    "complexNumber": 3832,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.964874,
+      "yCoordinate": 37.558616
+    },
+    "useApprovalDate": "20010711",
+    "totalHouseholdNumber": 712,
+    "isVrExposed": false,
+    "viewCount": 9,
+    "pyeongTypeNumber": 8,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1700000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      },
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 714000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 109.96
+  },
+  "120174": {
+    "complexNumber": 120174,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.970521,
+      "yCoordinate": 37.573307
+    },
+    "useApprovalDate": "20040629",
+    "totalHouseholdNumber": 18,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2800000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 43657192
+    },
+    "baseSpace": 212.02
+  },
+  "104306": {
+    "complexNumber": 104306,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.966369,
+      "yCoordinate": 37.560004
+    },
+    "useApprovalDate": "20111230",
+    "totalHouseholdNumber": 98,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 61.35
+  },
+  "102732": {
+    "complexNumber": 102732,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.962083,
+      "yCoordinate": 37.562403
+    },
+    "useApprovalDate": "20101101",
+    "totalHouseholdNumber": 46,
+    "isVrExposed": false,
+    "viewCount": 2,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 920000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 860000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 29639627
+    },
+    "baseSpace": 102.61
+  },
+  "141501": {
+    "complexNumber": 141501,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.996632,
+      "yCoordinate": 37.564556
+    },
+    "useApprovalDate": "20230116",
+    "totalHouseholdNumber": 321,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 430000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 380000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 32001070
+    },
+    "baseSpace": 44.42
+  },
+  "15813": {
+    "complexNumber": 15813,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.995769,
+      "yCoordinate": 37.564019
+    },
+    "useApprovalDate": "19680530",
+    "totalHouseholdNumber": 179,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 15,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 390000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 305000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 30976841
+    },
+    "baseSpace": 41.62
+  },
+  "16709": {
+    "complexNumber": 16709,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.995394,
+      "yCoordinate": 37.567457
+    },
+    "useApprovalDate": "197104",
+    "totalHouseholdNumber": 120,
+    "isVrExposed": false,
+    "viewCount": 2,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 675000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 21774052
+    },
+    "baseSpace": 102.48
+  },
+  "100502": {
+    "complexNumber": 100502,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.972004,
+      "yCoordinate": 37.572707
+    },
+    "useApprovalDate": "20040517",
+    "totalHouseholdNumber": 120,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2700000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2520000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 50690705
+    },
+    "baseSpace": 176.08
+  },
+  "12239": {
+    "complexNumber": 12239,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.971025,
+      "yCoordinate": 37.573924
+    },
+    "useApprovalDate": "20040703",
+    "totalHouseholdNumber": 90,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2290000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 52805856
+    },
+    "baseSpace": 143.36
+  },
+  "13914": {
+    "complexNumber": 13914,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.0017,
+      "yCoordinate": 37.55925
+    },
+    "useApprovalDate": "19810825",
+    "totalHouseholdNumber": 49,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 270000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 14239980
+    },
+    "baseSpace": 62.68
+  },
+  "10988": {
+    "complexNumber": 10988,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.96167,
+      "yCoordinate": 37.57164
+    },
+    "useApprovalDate": "19951110",
+    "totalHouseholdNumber": 48,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 820000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 785000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 33110342
+    },
+    "baseSpace": 81.87
+  },
+  "118773": {
+    "complexNumber": 118773,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.998487,
+      "yCoordinate": 37.561364
+    },
+    "useApprovalDate": "20180405",
+    "totalHouseholdNumber": 120,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 245000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 228000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 26202436
+    },
+    "baseSpace": 30.91
+  },
+  "17285": {
+    "complexNumber": 17285,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.998386,
+      "yCoordinate": 37.571447
+    },
+    "useApprovalDate": "20061027",
+    "totalHouseholdNumber": 298,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1300000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1040000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 35010350
+    },
+    "baseSpace": 122.75
+  },
+  "114354": {
+    "complexNumber": 114354,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.001863,
+      "yCoordinate": 37.574222
+    },
+    "useApprovalDate": "20170120",
+    "totalHouseholdNumber": 152,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 8,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 177500000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 25205190
+    },
+    "baseSpace": 23.28
+  },
+  "15832": {
+    "complexNumber": 15832,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.970199,
+      "yCoordinate": 37.567276
+    },
+    "useApprovalDate": "19650627",
+    "totalHouseholdNumber": 36,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 690000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 49308077
+    },
+    "baseSpace": 46.26
+  },
+  "27378": {
+    "complexNumber": 27378,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.983468,
+      "yCoordinate": 37.559624
+    },
+    "useApprovalDate": "20100805",
+    "totalHouseholdNumber": 236,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3450000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2680000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 52533202
+    },
+    "warrantyPriceRatio": 57.971014492753625,
+    "baseSpace": 217.1
+  },
+  "3482": {
+    "complexNumber": 3482,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.968112,
+      "yCoordinate": 37.562993
+    },
+    "useApprovalDate": "19710123",
+    "totalHouseholdNumber": 108,
+    "isVrExposed": false,
+    "viewCount": 10,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 280000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 21707781
+    },
+    "baseSpace": 42.64
+  },
+  "110137": {
+    "complexNumber": 110137,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.961267,
+      "yCoordinate": 37.571678
+    },
+    "useApprovalDate": "20170629",
+    "totalHouseholdNumber": 182,
+    "isVrExposed": true,
+    "viewCount": 12,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 950000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 60017883
+    },
+    "warrantyPriceRatio": 62,
+    "baseSpace": 55.08
+  },
+  "20250": {
+    "complexNumber": 20250,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.970567,
+      "yCoordinate": 37.574236
+    },
+    "useApprovalDate": "20031119",
+    "totalHouseholdNumber": 142,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1850000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 42635022
+    },
+    "baseSpace": 147.32
+  },
+  "13721": {
+    "complexNumber": 13721,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.968193,
+      "yCoordinate": 37.56087
+    },
+    "useApprovalDate": "20060320",
+    "totalHouseholdNumber": 110,
+    "isVrExposed": false,
+    "viewCount": 9,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2250000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1790000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 43755610
+    },
+    "baseSpace": 169.99
+  },
+  "24911": {
+    "complexNumber": 24911,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.997698,
+      "yCoordinate": 37.562792
+    },
+    "useApprovalDate": "20091221",
+    "totalHouseholdNumber": 273,
+    "isVrExposed": false,
+    "viewCount": 10,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1800000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1600000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 40528626
+    },
+    "warrantyPriceRatio": 58.333333333333336,
+    "baseSpace": 146.82
+  },
+  "8989": {
+    "complexNumber": 8989,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.95971,
+      "yCoordinate": 37.56827
+    },
+    "useApprovalDate": "19940506",
+    "totalHouseholdNumber": 19,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1100000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 23606618
+    },
+    "baseSpace": 154.04
+  },
+  "17518": {
+    "complexNumber": 17518,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.971987,
+      "yCoordinate": 37.559937
+    },
+    "useApprovalDate": "20070525",
+    "totalHouseholdNumber": 137,
+    "isVrExposed": false,
+    "viewCount": 8,
+    "pyeongTypeNumber": 10,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1275000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 38157485
+    },
+    "warrantyPriceRatio": 62.745098039215684,
+    "baseSpace": 110.46
+  },
+  "24908": {
+    "complexNumber": 24908,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.965906,
+      "yCoordinate": 37.561797
+    },
+    "useApprovalDate": "20081031",
+    "totalHouseholdNumber": 180,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1700000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1330000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 50964310
+    },
+    "baseSpace": 110.27
+  },
+  "15839": {
+    "complexNumber": 15839,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.995892,
+      "yCoordinate": 37.562398
+    },
+    "useApprovalDate": "19700523",
+    "totalHouseholdNumber": 280,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 680000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 700000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 31251686
+    },
+    "baseSpace": 71.93
+  },
+  "11182": {
+    "complexNumber": 11182,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.00012,
+      "yCoordinate": 37.5607
+    },
+    "useApprovalDate": "19810525",
+    "totalHouseholdNumber": 119,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 570000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 573000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 33606161
+    },
+    "warrantyPriceRatio": 61.40350877192983,
+    "baseSpace": 56.07
+  },
+  "8716": {
+    "complexNumber": 8716,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.963106,
+      "yCoordinate": 37.563709
+    },
+    "useApprovalDate": "19921229",
+    "totalHouseholdNumber": 83,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "B1": {
+        "warrantyPrice": 540000000
+      }
+    },
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 546000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "warrantyPrice": 17753594
+    },
+    "baseSpace": 100.55
+  },
+  "26121": {
+    "complexNumber": 26121,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.980559,
+      "yCoordinate": 37.559146
+    },
+    "useApprovalDate": "20100111",
+    "totalHouseholdNumber": 233,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2400000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 46402409
+    },
+    "baseSpace": 170.98
+  },
+  "131770": {
+    "complexNumber": 131770,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.972062,
+      "yCoordinate": 37.568657
+    },
+    "useApprovalDate": "20200713",
+    "totalHouseholdNumber": 58,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 5200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4750000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 88145226
+    },
+    "baseSpace": 195.02
+  },
+  "17785": {
+    "complexNumber": 17785,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.964036,
+      "yCoordinate": 37.56147
+    },
+    "useApprovalDate": "19320102",
+    "totalHouseholdNumber": 40,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1050000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 67741495
+    },
+    "baseSpace": 51.24
+  },
+  "10197": {
+    "complexNumber": 10197,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.96271,
+      "yCoordinate": 37.57269
+    },
+    "useApprovalDate": "19711113",
+    "totalHouseholdNumber": 64,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 265000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 33.05
+  },
+  "114521": {
+    "complexNumber": 114521,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.959448,
+      "yCoordinate": 37.574142
+    },
+    "useApprovalDate": "20190621",
+    "totalHouseholdNumber": 195,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2190000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1970000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 63234074
+    },
+    "baseSpace": 114.49
+  },
+  "109379": {
+    "complexNumber": 109379,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.963882,
+      "yCoordinate": 37.570876
+    },
+    "useApprovalDate": "20170224",
+    "totalHouseholdNumber": 1148,
+    "isVrExposed": true,
+    "viewCount": 50,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2750000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2640000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 80671832
+    },
+    "warrantyPriceRatio": 50.90909090909091,
+    "baseSpace": 112.69
+  },
+  "17541": {
+    "complexNumber": 17541,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.962326,
+      "yCoordinate": 37.562008
+    },
+    "useApprovalDate": "20080528",
+    "totalHouseholdNumber": 108,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1180000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1120000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 35676113
+    },
+    "baseSpace": 109.34
+  },
+  "10342": {
+    "complexNumber": 10342,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.965144,
+      "yCoordinate": 37.56281
+    },
+    "useApprovalDate": "19871019",
+    "totalHouseholdNumber": 95,
+    "isVrExposed": false,
+    "viewCount": 2,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 850000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 745000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 20731276
+    },
+    "warrantyPriceRatio": 70.58823529411765,
+    "baseSpace": 135.54
+  },
+  "17793": {
+    "complexNumber": 17793,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.96323,
+      "yCoordinate": 37.564575
+    },
+    "useApprovalDate": "20040227",
+    "totalHouseholdNumber": 30,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 10,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 850000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 30512729
+    },
+    "baseSpace": 92.09
+  },
+  "106628": {
+    "complexNumber": 106628,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.964783,
+      "yCoordinate": 37.561102
+    },
+    "useApprovalDate": "20030519",
+    "totalHouseholdNumber": 19,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 530000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 85.42
+  },
+  "1279": {
+    "complexNumber": 1279,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.97308,
+      "yCoordinate": 37.571843
+    },
+    "useApprovalDate": "19830610",
+    "totalHouseholdNumber": 72,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 10,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1200000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 37381662
+    },
+    "warrantyPriceRatio": 52.5,
+    "baseSpace": 106.12
+  },
+  "135725": {
+    "complexNumber": 135725,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.993372,
+      "yCoordinate": 37.568005
+    },
+    "useApprovalDate": "20230224",
+    "totalHouseholdNumber": 208,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1350000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1130000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 59951769
+    },
+    "warrantyPriceRatio": 61.111111111111114,
+    "baseSpace": 74.44
+  },
+  "148186": {
+    "complexNumber": 148186,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.992941,
+      "yCoordinate": 37.568017
+    },
+    "useApprovalDate": "20230224",
+    "totalHouseholdNumber": 206,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 950000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 862000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 45245580
+    },
+    "baseSpace": 69.41
+  },
+  "26373": {
+    "complexNumber": 26373,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.985315,
+      "yCoordinate": 37.558631
+    },
+    "useApprovalDate": "20030321",
+    "totalHouseholdNumber": 14,
+    "isVrExposed": false,
+    "viewCount": 2,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 860000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 29995516
+    },
+    "baseSpace": 94.78
+  },
+  "3835": {
+    "complexNumber": 3835,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.979774,
+      "yCoordinate": 37.55825
+    },
+    "useApprovalDate": "19760501",
+    "totalHouseholdNumber": 33,
+    "isVrExposed": false,
+    "viewCount": 2,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 510000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 448000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 26293673
+    },
+    "warrantyPriceRatio": 58.82352941176471,
+    "baseSpace": 64.12
+  },
+  "15845": {
+    "complexNumber": 15845,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.993551,
+      "yCoordinate": 37.561423
+    },
+    "useApprovalDate": "19721019",
+    "totalHouseholdNumber": 19,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 570000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 25883206
+    },
+    "baseSpace": 72.8
+  },
+  "16059": {
+    "complexNumber": 16059,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.964142,
+      "yCoordinate": 37.563295
+    },
+    "useApprovalDate": "19690613",
+    "totalHouseholdNumber": 97,
+    "isVrExposed": false,
+    "viewCount": 11,
+    "pyeongTypeNumber": 23,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 480000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 450000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 28554558
+    },
+    "warrantyPriceRatio": 54.166666666666664,
+    "baseSpace": 55.57
+  },
+  "148187": {
+    "complexNumber": 148187,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.994464,
+      "yCoordinate": 37.56811
+    },
+    "useApprovalDate": "20230307",
+    "totalHouseholdNumber": 329,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1020000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 920000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 47008235
+    },
+    "baseSpace": 71.73
+  },
+  "101771": {
+    "complexNumber": 101771,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.982116,
+      "yCoordinate": 37.558297
+    },
+    "useApprovalDate": "20111118",
+    "totalHouseholdNumber": 386,
+    "isVrExposed": false,
+    "viewCount": 16,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2500000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2180000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 44730799
+    },
+    "warrantyPriceRatio": 64,
+    "baseSpace": 184.76
+  },
+  "3392": {
+    "complexNumber": 3392,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.960627,
+      "yCoordinate": 37.566994
+    },
+    "useApprovalDate": "20020321",
+    "totalHouseholdNumber": 237,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1190000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 980000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 45399701
+    },
+    "baseSpace": 86.65
+  },
+  "22124": {
+    "complexNumber": 22124,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.968606,
+      "yCoordinate": 37.574426
+    },
+    "useApprovalDate": "20080711",
+    "totalHouseholdNumber": 744,
+    "isVrExposed": false,
+    "viewCount": 24,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1940000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      },
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 924000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 113.24
+  },
+  "940": {
+    "complexNumber": 940,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.958749,
+      "yCoordinate": 37.570113
+    },
+    "useApprovalDate": "19950623",
+    "totalHouseholdNumber": 895,
+    "isVrExposed": false,
+    "viewCount": 29,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1430000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1240000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 45154957
+    },
+    "baseSpace": 104.69
+  },
+  "27135": {
+    "complexNumber": 27135,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.970782,
+      "yCoordinate": 37.568489
+    },
+    "useApprovalDate": "20080925",
+    "totalHouseholdNumber": 98,
+    "isVrExposed": false,
+    "viewCount": 16,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2100000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 41070511
+    },
+    "baseSpace": 169.03
+  },
+  "26046": {
+    "complexNumber": 26046,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.961383,
+      "yCoordinate": 37.566343
+    },
+    "useApprovalDate": "20110407",
+    "totalHouseholdNumber": 561,
+    "isVrExposed": false,
+    "viewCount": 20,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1850000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1725000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 56433535
+    },
+    "baseSpace": 108.37
+  },
+  "135726": {
+    "complexNumber": 135726,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.994857,
+      "yCoordinate": 37.568089
+    },
+    "useApprovalDate": "20230307",
+    "totalHouseholdNumber": 279,
+    "isVrExposed": false,
+    "viewCount": 9,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 850000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 690000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 42115066
+    },
+    "warrantyPriceRatio": 74.11764705882354,
+    "baseSpace": 66.72
+  },
+  "12241": {
+    "complexNumber": 12241,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.964805,
+      "yCoordinate": 37.560345
+    },
+    "useApprovalDate": "20040923",
+    "totalHouseholdNumber": 258,
+    "isVrExposed": false,
+    "viewCount": 9,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 555000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 520000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 31266371
+    },
+    "baseSpace": 58.68
+  },
+  "107404": {
+    "complexNumber": 107404,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.970226,
+      "yCoordinate": 37.563861
+    },
+    "useApprovalDate": "20160831",
+    "totalHouseholdNumber": 296,
+    "isVrExposed": false,
+    "viewCount": 21,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2100000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1820000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 62570063
+    },
+    "baseSpace": 110.95
+  },
+  "110125": {
+    "complexNumber": 110125,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.965989,
+      "yCoordinate": 37.569144
+    },
+    "useApprovalDate": "20170224",
+    "totalHouseholdNumber": 589,
+    "isVrExposed": true,
+    "viewCount": 21,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2530000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2380000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 74715347
+    },
+    "warrantyPriceRatio": 49.40711462450593,
+    "baseSpace": 111.94
+  },
+  "176337": {
+    "complexNumber": 176337,
+    "realEstateType": "B01",
+    "coordinates": {
+      "xCoordinate": 126.960085,
+      "yCoordinate": 37.570989
+    },
+    "useApprovalDate": "202607",
+    "totalHouseholdNumber": 199,
+    "isVrExposed": false,
+    "viewCount": 17,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2050000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 58714774
+    },
+    "warrantyPriceRatio": 58.536585365853654,
+    "baseSpace": 115.42
+  },
+  "136216": {
+    "complexNumber": 136216,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.971782,
+      "yCoordinate": 37.563206
+    },
+    "useApprovalDate": "20201221",
+    "totalHouseholdNumber": 168,
+    "isVrExposed": false,
+    "viewCount": 12,
+    "pyeongTypeNumber": 13,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 255000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 38828888
+    },
+    "baseSpace": 21.71
+  },
+  "143727": {
+    "complexNumber": 143727,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.999421,
+      "yCoordinate": 37.561673
+    },
+    "useApprovalDate": "20240129",
+    "totalHouseholdNumber": 282,
+    "isVrExposed": false,
+    "viewCount": 8,
+    "pyeongTypeNumber": 11,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 835000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 790000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 43326486
+    },
+    "baseSpace": 63.71
+  },
+  "131890": {
+    "complexNumber": 131890,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.996545,
+      "yCoordinate": 37.564589
+    },
+    "useApprovalDate": "20230116",
+    "totalHouseholdNumber": 293,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 462500000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 370000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 35639290
+    },
+    "baseSpace": 42.9
+  },
+  "582": {
+    "complexNumber": 582,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.010493,
+      "yCoordinate": 37.594958
+    },
+    "useApprovalDate": "19980701",
+    "totalHouseholdNumber": 4509,
+    "isVrExposed": false,
+    "viewCount": 136,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 665000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 24147443
+    },
+    "warrantyPriceRatio": 66.66666666666666,
+    "baseSpace": 164.28
+  },
+  "109051": {
+    "complexNumber": 109051,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.018895,
+      "yCoordinate": 37.580271
+    },
+    "useApprovalDate": "20170118",
+    "totalHouseholdNumber": 1186,
+    "isVrExposed": true,
+    "viewCount": 45,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1275000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1180000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 51640233
+    },
+    "baseSpace": 81.62
+  },
+  "796": {
+    "complexNumber": 796,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.011747,
+      "yCoordinate": 37.580633
+    },
+    "useApprovalDate": "19931012",
+    "totalHouseholdNumber": 919,
+    "isVrExposed": false,
+    "viewCount": 27,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 800000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 728000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 30293562
+    },
+    "baseSpace": 87.3
+  },
+  "3833": {
+    "complexNumber": 3833,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.008972,
+      "yCoordinate": 37.548907
+    },
+    "useApprovalDate": "20020525",
+    "totalHouseholdNumber": 5150,
+    "isVrExposed": false,
+    "viewCount": 106,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1750000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1765000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 54254185
+    },
+    "warrantyPriceRatio": 40,
+    "baseSpace": 106.63
+  },
+  "1238": {
+    "complexNumber": 1238,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.01478,
+      "yCoordinate": 37.554916
+    },
+    "useApprovalDate": "19990729",
+    "totalHouseholdNumber": 2282,
+    "isVrExposed": false,
+    "viewCount": 71,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1850000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1780000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 56810982
+    },
+    "baseSpace": 107.65
+  },
+  "100692": {
+    "complexNumber": 100692,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.013841,
+      "yCoordinate": 37.544911
+    },
+    "useApprovalDate": "20121228",
+    "totalHouseholdNumber": 1511,
+    "isVrExposed": false,
+    "viewCount": 44,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2325000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2080000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 96763818
+    },
+    "warrantyPriceRatio": 35.26881720430107,
+    "baseSpace": 79.43
+  },
+  "772": {
+    "complexNumber": 772,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.988777,
+      "yCoordinate": 37.541136
+    },
+    "useApprovalDate": "19941231",
+    "totalHouseholdNumber": 400,
+    "isVrExposed": false,
+    "viewCount": 93,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1800000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 86099952
+    },
+    "baseSpace": 72.95
+  },
+  "775": {
+    "complexNumber": 775,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.994924,
+      "yCoordinate": 37.529961
+    },
+    "useApprovalDate": "19820918",
+    "totalHouseholdNumber": 578,
+    "isVrExposed": false,
+    "viewCount": 21,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3300000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3169000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 94631250
+    },
+    "baseSpace": 115.28
+  },
+  "11151": {
+    "complexNumber": 11151,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.001511,
+      "yCoordinate": 37.544287
+    },
+    "useApprovalDate": "19720415",
+    "totalHouseholdNumber": 136,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2150000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 54251108
+    },
+    "baseSpace": 131.01
+  },
+  "104917": {
+    "complexNumber": 104917,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.953154,
+      "yCoordinate": 37.553341
+    },
+    "useApprovalDate": "20140926",
+    "totalHouseholdNumber": 3885,
+    "isVrExposed": false,
+    "viewCount": 86,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2300000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2190000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 94851615
+    },
+    "warrantyPriceRatio": 39.130434782608695,
+    "baseSpace": 80.16
+  },
+  "403": {
+    "complexNumber": 403,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.951292,
+      "yCoordinate": 37.54653
+    },
+    "useApprovalDate": "19991016",
+    "totalHouseholdNumber": 651,
+    "isVrExposed": false,
+    "viewCount": 45,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1800000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1680000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 69497932
+    },
+    "warrantyPriceRatio": 36.11111111111111,
+    "baseSpace": 85.62
+  },
+  "1147": {
+    "complexNumber": 1147,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.942547,
+      "yCoordinate": 37.544731
+    },
+    "useApprovalDate": "19991120",
+    "totalHouseholdNumber": 1992,
+    "isVrExposed": false,
+    "viewCount": 42,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2050000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 66484386
+    },
+    "baseSpace": 109.39
+  },
+  "878": {
+    "complexNumber": 878,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.02913,
+      "yCoordinate": 37.555891
+    },
+    "useApprovalDate": "20001107",
+    "totalHouseholdNumber": 2123,
+    "isVrExposed": false,
+    "viewCount": 80,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1950000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1945000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 59429157
+    },
+    "baseSpace": 108.47
+  },
+  "2977": {
+    "complexNumber": 2977,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.03661,
+      "yCoordinate": 37.554894
+    },
+    "useApprovalDate": "20031223",
+    "totalHouseholdNumber": 1410,
+    "isVrExposed": false,
+    "viewCount": 53,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1990000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1800000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 60597938
+    },
+    "baseSpace": 108.56
+  },
+  "1286": {
+    "complexNumber": 1286,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.027479,
+      "yCoordinate": 37.551453
+    },
+    "useApprovalDate": "20011203",
+    "totalHouseholdNumber": 1707,
+    "isVrExposed": false,
+    "viewCount": 50,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1880000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1690000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 57232487
+    },
+    "warrantyPriceRatio": 31.382978723404253,
+    "baseSpace": 108.59
+  },
+  "108405": {
+    "complexNumber": 108405,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.044942,
+      "yCoordinate": 37.538893
+    },
+    "useApprovalDate": "20170529",
+    "totalHouseholdNumber": 688,
+    "isVrExposed": false,
+    "viewCount": 75,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 6000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 5780000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 156598057
+    },
+    "warrantyPriceRatio": 36.666666666666664,
+    "baseSpace": 126.66
+  },
+  "712": {
+    "complexNumber": 712,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 127.027946,
+      "yCoordinate": 37.533033
+    },
+    "useApprovalDate": "19760607",
+    "totalHouseholdNumber": 960,
+    "isVrExposed": false,
+    "viewCount": 32,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 7900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 9400000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 151290125
+    },
+    "warrantyPriceRatio": 20.253164556962027,
+    "baseSpace": 172.62
+  },
+  "494": {
+    "complexNumber": 494,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 127.038825,
+      "yCoordinate": 37.530321
+    },
+    "useApprovalDate": "19771226",
+    "totalHouseholdNumber": 936,
+    "isVrExposed": false,
+    "viewCount": 20,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4850000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3570000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 176226173
+    },
+    "warrantyPriceRatio": 14.432989690721648,
+    "baseSpace": 90.98
+  },
+  "109910": {
+    "complexNumber": 109910,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.024787,
+      "yCoordinate": 37.566563
+    },
+    "useApprovalDate": "20161129",
+    "totalHouseholdNumber": 2529,
+    "isVrExposed": false,
+    "viewCount": 73,
+    "pyeongTypeNumber": 9,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2490000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2430000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 74851365
+    },
+    "baseSpace": 109.97
+  },
+  "26192": {
+    "complexNumber": 26192,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.035914,
+      "yCoordinate": 37.574886
+    },
+    "useApprovalDate": "20110428",
+    "totalHouseholdNumber": 844,
+    "isVrExposed": false,
+    "viewCount": 38,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1575000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1440000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 46351031
+    },
+    "warrantyPriceRatio": 53.96825396825397,
+    "baseSpace": 112.33
+  },
+  "877": {
+    "complexNumber": 877,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.042452,
+      "yCoordinate": 37.569966
+    },
+    "useApprovalDate": "19980414",
+    "totalHouseholdNumber": 1017,
+    "isVrExposed": false,
+    "viewCount": 28,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1450000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1400000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 44338065
+    },
+    "baseSpace": 108.11
+  },
+  "104202": {
+    "complexNumber": 104202,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.053861,
+      "yCoordinate": 37.571292
+    },
+    "useApprovalDate": "20141013",
+    "totalHouseholdNumber": 2652,
+    "isVrExposed": true,
+    "viewCount": 65,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1710000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1675000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 50712230
+    },
+    "warrantyPriceRatio": 49.707602339181285,
+    "baseSpace": 111.47
+  },
+  "3276": {
+    "complexNumber": 3276,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.060522,
+      "yCoordinate": 37.576932
+    },
+    "useApprovalDate": "20000706",
+    "totalHouseholdNumber": 1830,
+    "isVrExposed": false,
+    "viewCount": 63,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1300000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1060000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 39196648
+    },
+    "warrantyPriceRatio": 50,
+    "baseSpace": 109.64
+  },
+  "17426": {
+    "complexNumber": 17426,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.057825,
+      "yCoordinate": 37.566377
+    },
+    "useApprovalDate": "20070426",
+    "totalHouseholdNumber": 516,
+    "isVrExposed": false,
+    "viewCount": 39,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1455000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1390000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 43894115
+    },
+    "baseSpace": 109.58
+  },
+  "7961": {
+    "complexNumber": 7961,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.9471,
+      "yCoordinate": 37.583895
+    },
+    "useApprovalDate": "19930504",
+    "totalHouseholdNumber": 998,
+    "isVrExposed": false,
+    "viewCount": 60,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 750000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 42999284
+    },
+    "warrantyPriceRatio": 50,
+    "baseSpace": 76.88
+  },
+  "437": {
+    "complexNumber": 437,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.941228,
+      "yCoordinate": 37.589149
+    },
+    "useApprovalDate": "19920708",
+    "totalHouseholdNumber": 704,
+    "isVrExposed": false,
+    "viewCount": 35,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1030000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 910000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 37135549
+    },
+    "baseSpace": 91.69
+  },
+  "124802": {
+    "complexNumber": 124802,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.948503,
+      "yCoordinate": 37.590015
+    },
+    "useApprovalDate": "20240327",
+    "totalHouseholdNumber": 1116,
+    "isVrExposed": false,
+    "viewCount": 32,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1400000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1390000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 53233252
+    },
+    "warrantyPriceRatio": 52.142857142857146,
+    "baseSpace": 86.94
+  },
+  "170797": {
+    "complexNumber": 170797,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.045827,
+      "yCoordinate": 37.587582
+    },
+    "useApprovalDate": "202604",
+    "totalHouseholdNumber": 761,
+    "isVrExposed": false,
+    "viewCount": 58,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1475000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1443000000
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 59880054
+    },
+    "warrantyPriceRatio": 46.101694915254235,
+    "baseSpace": 81.43
+  },
+  "133184": {
+    "complexNumber": 133184,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.028452,
+      "yCoordinate": 37.579947
+    },
+    "useApprovalDate": "20220830",
+    "totalHouseholdNumber": 1048,
+    "isVrExposed": false,
+    "viewCount": 29,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1700000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1530000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 69065189
+    },
+    "baseSpace": 81.37
+  },
+  "3277": {
+    "complexNumber": 3277,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.039585,
+      "yCoordinate": 37.589576
+    },
+    "useApprovalDate": "20040511",
+    "totalHouseholdNumber": 1070,
+    "isVrExposed": false,
+    "viewCount": 24,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1080000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 990000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 42594223
+    },
+    "baseSpace": 83.82
+  },
+  "3459": {
+    "complexNumber": 3459,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.955287,
+      "yCoordinate": 37.538411
+    },
+    "useApprovalDate": "20010803",
+    "totalHouseholdNumber": 1458,
+    "isVrExposed": false,
+    "viewCount": 56,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1640000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 57990873
+    },
+    "warrantyPriceRatio": 42.10526315789473,
+    "baseSpace": 108.31
+  },
+  "12240": {
+    "complexNumber": 12240,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.945308,
+      "yCoordinate": 37.539953
+    },
+    "useApprovalDate": "20041008",
+    "totalHouseholdNumber": 662,
+    "isVrExposed": false,
+    "viewCount": 40,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 550000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 530000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 36686475
+    },
+    "warrantyPriceRatio": 72.72727272727273,
+    "baseSpace": 49.56
+  },
+  "3803": {
+    "complexNumber": 3803,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.950404,
+      "yCoordinate": 37.534791
+    },
+    "useApprovalDate": "20010110",
+    "totalHouseholdNumber": 1102,
+    "isVrExposed": false,
+    "viewCount": 33,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1800000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1760000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 55549038
+    },
+    "warrantyPriceRatio": 38.05555555555556,
+    "baseSpace": 107.12
+  },
+  "102737": {
+    "complexNumber": 102737,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.009784,
+      "yCoordinate": 37.537322
+    },
+    "useApprovalDate": "20110107",
+    "totalHouseholdNumber": 600,
+    "isVrExposed": false,
+    "viewCount": 56,
+    "pyeongTypeNumber": 18,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 13800000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 12770000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 160514524
+    },
+    "warrantyPriceRatio": 47.10144927536232,
+    "baseSpace": 284.21
+  },
+  "1179": {
+    "complexNumber": 1179,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.013983,
+      "yCoordinate": 37.542421
+    },
+    "useApprovalDate": "19990420",
+    "totalHouseholdNumber": 1114,
+    "isVrExposed": false,
+    "viewCount": 37,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2350000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2300000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 72644424
+    },
+    "warrantyPriceRatio": 36.17021276595745,
+    "baseSpace": 106.94
+  },
+  "9575": {
+    "complexNumber": 9575,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.008111,
+      "yCoordinate": 37.534632
+    },
+    "useApprovalDate": "20040409",
+    "totalHouseholdNumber": 371,
+    "isVrExposed": false,
+    "viewCount": 22,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 700000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 640000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 46843107
+    },
+    "warrantyPriceRatio": 62.857142857142854,
+    "baseSpace": 49.4
+  },
+  "108064": {
+    "complexNumber": 108064,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.917612,
+      "yCoordinate": 37.572838
+    },
+    "useApprovalDate": "20151026",
+    "totalHouseholdNumber": 4300,
+    "isVrExposed": true,
+    "viewCount": 55,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1680000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1600000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 49595631
+    },
+    "warrantyPriceRatio": 56.547619047619044,
+    "baseSpace": 111.98
+  },
+  "114768": {
+    "complexNumber": 114768,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.929266,
+      "yCoordinate": 37.576085
+    },
+    "useApprovalDate": "20181221",
+    "totalHouseholdNumber": 396,
+    "isVrExposed": false,
+    "viewCount": 15,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1300000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1200000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 38877514
+    },
+    "baseSpace": 110.54
+  },
+  "27020": {
+    "complexNumber": 27020,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.914601,
+      "yCoordinate": 37.567823
+    },
+    "useApprovalDate": "20090305",
+    "totalHouseholdNumber": 320,
+    "isVrExposed": false,
+    "viewCount": 12,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1460000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1250000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 44730733
+    },
+    "baseSpace": 107.9
+  },
+  "11567": {
+    "complexNumber": 11567,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.95798,
+      "yCoordinate": 37.567665
+    },
+    "useApprovalDate": "20060313",
+    "totalHouseholdNumber": 1008,
+    "isVrExposed": false,
+    "viewCount": 47,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1230000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1208000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 52398396
+    },
+    "baseSpace": 77.6
+  },
+  "941": {
+    "complexNumber": 941,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.956827,
+      "yCoordinate": 37.572394
+    },
+    "useApprovalDate": "19981210",
+    "totalHouseholdNumber": 1300,
+    "isVrExposed": false,
+    "viewCount": 32,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1500000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1410000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 45744257
+    },
+    "warrantyPriceRatio": 46.666666666666664,
+    "baseSpace": 108.4
+  },
+  "3393": {
+    "complexNumber": 3393,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.939004,
+      "yCoordinate": 37.576758
+    },
+    "useApprovalDate": "20010531",
+    "totalHouseholdNumber": 581,
+    "isVrExposed": false,
+    "viewCount": 16,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 950000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 855000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 28918008
+    },
+    "baseSpace": 108.6
+  },
+  "22776": {
+    "complexNumber": 22776,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.928368,
+      "yCoordinate": 37.54473
+    },
+    "useApprovalDate": "20100226",
+    "totalHouseholdNumber": 488,
+    "isVrExposed": false,
+    "viewCount": 46,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2875000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2370000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 58118582
+    },
+    "baseSpace": 163.53
+  },
+  "3487": {
+    "complexNumber": 3487,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.929644,
+      "yCoordinate": 37.561536
+    },
+    "useApprovalDate": "20020730",
+    "totalHouseholdNumber": 562,
+    "isVrExposed": false,
+    "viewCount": 15,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1030000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 990000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 39735774
+    },
+    "baseSpace": 85.69
+  },
+  "13479": {
+    "complexNumber": 13479,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.916755,
+      "yCoordinate": 37.557427
+    },
+    "useApprovalDate": "20050830",
+    "totalHouseholdNumber": 366,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 310000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 295000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 22597427
+    },
+    "baseSpace": 45.35
+  },
+  "24845": {
+    "complexNumber": 24845,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.021134,
+      "yCoordinate": 37.570971
+    },
+    "useApprovalDate": "20081222",
+    "totalHouseholdNumber": 1870,
+    "isVrExposed": false,
+    "viewCount": 38,
+    "pyeongTypeNumber": 9,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1600000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1445000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 34838993
+    },
+    "baseSpace": 151.82
+  },
+  "104133": {
+    "complexNumber": 104133,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.017178,
+      "yCoordinate": 37.5671
+    },
+    "useApprovalDate": "20141222",
+    "totalHouseholdNumber": 295,
+    "isVrExposed": false,
+    "viewCount": 16,
+    "pyeongTypeNumber": 12,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1540000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 32104843
+    },
+    "baseSpace": 195.64
+  },
+  "127962": {
+    "complexNumber": 127962,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.004638,
+      "yCoordinate": 37.575269
+    },
+    "useApprovalDate": "20220929",
+    "totalHouseholdNumber": 181,
+    "isVrExposed": false,
+    "viewCount": 12,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1440000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 59148615
+    },
+    "warrantyPriceRatio": 57.89473684210527,
+    "baseSpace": 106.19
+  },
+  "102329": {
+    "complexNumber": 102329,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.970022,
+      "yCoordinate": 37.540197
+    },
+    "useApprovalDate": "20140217",
+    "totalHouseholdNumber": 559,
+    "isVrExposed": false,
+    "viewCount": 34,
+    "pyeongTypeNumber": 12,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2100000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1650000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 59727682
+    },
+    "warrantyPriceRatio": 47.61904761904761,
+    "baseSpace": 116.23
+  },
+  "27355": {
+    "complexNumber": 27355,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.967508,
+      "yCoordinate": 37.535906
+    },
+    "useApprovalDate": "20110401",
+    "totalHouseholdNumber": 867,
+    "isVrExposed": false,
+    "viewCount": 28,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2525000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2550000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 76389742
+    },
+    "warrantyPriceRatio": 41.584158415841586,
+    "baseSpace": 109.27
+  },
+  "9398": {
+    "complexNumber": 9398,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.969661,
+      "yCoordinate": 37.532365
+    },
+    "useApprovalDate": "20050506",
+    "totalHouseholdNumber": 248,
+    "isVrExposed": false,
+    "viewCount": 12,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "B1": {
+        "warrantyPrice": 825000000
+      }
+    },
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 800000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "warrantyPrice": 24952174
+    },
+    "baseSpace": 109.3
+  },
+  "556": {
+    "complexNumber": 556,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.047333,
+      "yCoordinate": 37.549326
+    },
+    "useApprovalDate": "19971007",
+    "totalHouseholdNumber": 777,
+    "isVrExposed": false,
+    "viewCount": 33,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1860000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 83401825
+    },
+    "warrantyPriceRatio": 35.26315789473684,
+    "baseSpace": 75.31
+  },
+  "8103": {
+    "complexNumber": 8103,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.057218,
+      "yCoordinate": 37.547171
+    },
+    "useApprovalDate": "20030828",
+    "totalHouseholdNumber": 656,
+    "isVrExposed": false,
+    "viewCount": 21,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2325000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1920000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 60196977
+    },
+    "baseSpace": 127.68
+  },
+  "1173": {
+    "complexNumber": 1173,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.048598,
+      "yCoordinate": 37.561996
+    },
+    "useApprovalDate": "19890912",
+    "totalHouseholdNumber": 270,
+    "isVrExposed": false,
+    "viewCount": 21,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 920000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 890000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 33792468
+    },
+    "baseSpace": 90
+  },
+  "106861": {
+    "complexNumber": 106861,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.958597,
+      "yCoordinate": 37.553416
+    },
+    "useApprovalDate": "201504",
+    "totalHouseholdNumber": 1164,
+    "isVrExposed": false,
+    "viewCount": 32,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2250000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 84971690
+    },
+    "warrantyPriceRatio": 40.45454545454545,
+    "baseSpace": 85.59
+  },
+  "2993": {
+    "complexNumber": 2993,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.958059,
+      "yCoordinate": 37.546527
+    },
+    "useApprovalDate": "20001028",
+    "totalHouseholdNumber": 458,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1625000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1570000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 68861692
+    },
+    "warrantyPriceRatio": 36.92307692307693,
+    "baseSpace": 78.01
+  },
+  "9957": {
+    "complexNumber": 9957,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.97562,
+      "yCoordinate": 37.55181
+    },
+    "useApprovalDate": "19800722",
+    "totalHouseholdNumber": 226,
+    "isVrExposed": false,
+    "viewCount": 15,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "B1": {
+        "warrantyPrice": 346000000
+      }
+    },
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 345000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "warrantyPrice": 16358718
+    },
+    "baseSpace": 69.92
+  },
+  "8791": {
+    "complexNumber": 8791,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.06012,
+      "yCoordinate": 37.593589
+    },
+    "useApprovalDate": "20040413",
+    "totalHouseholdNumber": 648,
+    "isVrExposed": false,
+    "viewCount": 31,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1150000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1080000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 48471920
+    },
+    "warrantyPriceRatio": 52.17391304347826,
+    "baseSpace": 78.43
+  },
+  "349": {
+    "complexNumber": 349,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 127.046828,
+      "yCoordinate": 37.583943
+    },
+    "useApprovalDate": "19780927",
+    "totalHouseholdNumber": 1089,
+    "isVrExposed": false,
+    "viewCount": 24,
+    "pyeongTypeNumber": 16,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1450000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1430000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 44577217
+    },
+    "baseSpace": 107.53
+  },
+  "1128": {
+    "complexNumber": 1128,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.049387,
+      "yCoordinate": 37.588133
+    },
+    "useApprovalDate": "19971216",
+    "totalHouseholdNumber": 960,
+    "isVrExposed": false,
+    "viewCount": 19,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 950000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 30745768
+    },
+    "baseSpace": 107.52
+  },
+  "116158": {
+    "complexNumber": 116158,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.920869,
+      "yCoordinate": 37.595216
+    },
+    "useApprovalDate": "20200521",
+    "totalHouseholdNumber": 1305,
+    "isVrExposed": true,
+    "viewCount": 29,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1205000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1140000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 35627143
+    },
+    "warrantyPriceRatio": 61.41078838174274,
+    "baseSpace": 111.81
+  },
+  "27501": {
+    "complexNumber": 27501,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.925346,
+      "yCoordinate": 37.592015
+    },
+    "useApprovalDate": "20111222",
+    "totalHouseholdNumber": 1106,
+    "isVrExposed": false,
+    "viewCount": 27,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 850000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 785000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 33471319
+    },
+    "warrantyPriceRatio": 61.1764705882353,
+    "baseSpace": 83.95
+  },
+  "128027": {
+    "complexNumber": 128027,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.925419,
+      "yCoordinate": 37.585947
+    },
+    "useApprovalDate": "20231229",
+    "totalHouseholdNumber": 623,
+    "isVrExposed": false,
+    "viewCount": 22,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1020000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1010000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 42259690
+    },
+    "warrantyPriceRatio": 58.82352941176471,
+    "baseSpace": 79.79
+  },
+  "27424": {
+    "complexNumber": 27424,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.052578,
+      "yCoordinate": 37.5418
+    },
+    "useApprovalDate": "20090601",
+    "totalHouseholdNumber": 445,
+    "isVrExposed": false,
+    "viewCount": 24,
+    "pyeongTypeNumber": 11,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4500000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3200000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 80559040
+    },
+    "warrantyPriceRatio": 38.88888888888889,
+    "baseSpace": 184.66
+  },
+  "135887": {
+    "complexNumber": 135887,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.062785,
+      "yCoordinate": 37.53789
+    },
+    "useApprovalDate": "202307",
+    "totalHouseholdNumber": 878,
+    "isVrExposed": false,
+    "viewCount": 21,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2600000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2590000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 76844354
+    },
+    "warrantyPriceRatio": 50,
+    "baseSpace": 111.85
+  },
+  "982": {
+    "complexNumber": 982,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.053394,
+      "yCoordinate": 37.527354
+    },
+    "useApprovalDate": "19990619",
+    "totalHouseholdNumber": 317,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3400000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 92996272
+    },
+    "warrantyPriceRatio": 39.375,
+    "baseSpace": 142.19
+  },
+  "8492": {
+    "complexNumber": 8492,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.933366,
+      "yCoordinate": 37.543378
+    },
+    "useApprovalDate": "20040216",
+    "totalHouseholdNumber": 510,
+    "isVrExposed": false,
+    "viewCount": 18,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2000000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 54501851
+    },
+    "warrantyPriceRatio": 41.81818181818181,
+    "baseSpace": 133.44
+  },
+  "25355": {
+    "complexNumber": 25355,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.92395,
+      "yCoordinate": 37.530868
+    },
+    "useApprovalDate": "19710827",
+    "totalHouseholdNumber": 153,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1190000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1250000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 44072195
+    },
+    "warrantyPriceRatio": 33.61344537815126,
+    "baseSpace": 89.26
+  },
+  "9280": {
+    "complexNumber": 9280,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.92251,
+      "yCoordinate": 37.544478
+    },
+    "useApprovalDate": "20040608",
+    "totalHouseholdNumber": 34,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 1750000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {},
+    "baseSpace": 202.86
+  },
+  "105475": {
+    "complexNumber": 105475,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.980223,
+      "yCoordinate": 37.549397
+    },
+    "useApprovalDate": "20040821",
+    "totalHouseholdNumber": 19,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 105.62
+  },
+  "11484": {
+    "complexNumber": 11484,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.981231,
+      "yCoordinate": 37.57513
+    },
+    "useApprovalDate": "20050425",
+    "totalHouseholdNumber": 133,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 23,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 400000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 360000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 25100873
+    },
+    "baseSpace": 52.68
+  },
+  "12076": {
+    "complexNumber": 12076,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.96834,
+      "yCoordinate": 37.591282
+    },
+    "useApprovalDate": "19881111",
+    "totalHouseholdNumber": 126,
+    "isVrExposed": false,
+    "viewCount": 9,
+    "pyeongTypeNumber": 9,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1800000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 37756427
+    },
+    "baseSpace": 157.6
+  },
+  "11696": {
+    "complexNumber": 11696,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.967425,
+      "yCoordinate": 37.586174
+    },
+    "useApprovalDate": "20001002",
+    "totalHouseholdNumber": 60,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1500000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 47620066
+    },
+    "baseSpace": 104.13
+  },
+  "114625": {
+    "complexNumber": 114625,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.970667,
+      "yCoordinate": 37.5809
+    },
+    "totalHouseholdNumber": 41,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 330000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 17741243
+    },
+    "baseSpace": 61.49
+  },
+  "793": {
+    "complexNumber": 793,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.999313,
+      "yCoordinate": 37.585935
+    },
+    "useApprovalDate": "19951222",
+    "totalHouseholdNumber": 436,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1250000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1200000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 40607618
+    },
+    "baseSpace": 101.76
+  },
+  "26947": {
+    "complexNumber": 26947,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.991091,
+      "yCoordinate": 37.595263
+    },
+    "useApprovalDate": "20100831",
+    "totalHouseholdNumber": 61,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2000000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 45377968
+    },
+    "baseSpace": 145.7
+  },
+  "102642": {
+    "complexNumber": 102642,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.9888,
+      "yCoordinate": 37.595042
+    },
+    "useApprovalDate": "19710825",
+    "totalHouseholdNumber": 49,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 240000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 230000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 20704290
+    },
+    "baseSpace": 38.32
+  },
+  "9874": {
+    "complexNumber": 9874,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.023268,
+      "yCoordinate": 37.589659
+    },
+    "useApprovalDate": "20050616",
+    "totalHouseholdNumber": 528,
+    "isVrExposed": false,
+    "viewCount": 18,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 980000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 595000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 40694250
+    },
+    "baseSpace": 79.61
+  },
+  "102816": {
+    "complexNumber": 102816,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.006826,
+      "yCoordinate": 37.559877
+    },
+    "useApprovalDate": "20001215",
+    "totalHouseholdNumber": 18,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 5000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3600000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 49051621
+    },
+    "baseSpace": 336.97
+  },
+  "114542": {
+    "complexNumber": 114542,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.94451,
+      "yCoordinate": 37.55555
+    },
+    "useApprovalDate": "20200221",
+    "totalHouseholdNumber": 1248,
+    "isVrExposed": false,
+    "viewCount": 29,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2775000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2570000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 81217825
+    },
+    "warrantyPriceRatio": 39.63963963963964,
+    "baseSpace": 112.95
+  },
+  "185578": {
+    "complexNumber": 185578,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.043411,
+      "yCoordinate": 37.549442
+    },
+    "useApprovalDate": "20251127",
+    "totalHouseholdNumber": 528,
+    "isVrExposed": false,
+    "viewCount": 20,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "B1": {
+        "warrantyPrice": 1300000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "warrantyPrice": 52154375
+    },
+    "baseSpace": 82.4
+  },
+  "338": {
+    "complexNumber": 338,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.032588,
+      "yCoordinate": 37.572958
+    },
+    "useApprovalDate": "19941014",
+    "totalHouseholdNumber": 772,
+    "isVrExposed": false,
+    "viewCount": 26,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1150000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1000000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 36955893
+    },
+    "warrantyPriceRatio": 56.52173913043478,
+    "baseSpace": 102.87
+  },
+  "174098": {
+    "complexNumber": 174098,
+    "realEstateType": "B01",
+    "coordinates": {
+      "xCoordinate": 127.049594,
+      "yCoordinate": 37.567355
+    },
+    "useApprovalDate": "202702",
+    "totalHouseholdNumber": 1670,
+    "isVrExposed": false,
+    "viewCount": 23,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2050000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2080670000
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 68577810
+    },
+    "baseSpace": 98.82
+  },
+  "112357": {
+    "complexNumber": 112357,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.946442,
+      "yCoordinate": 37.585008
+    },
+    "useApprovalDate": "20200622",
+    "totalHouseholdNumber": 906,
+    "isVrExposed": false,
+    "viewCount": 22,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1550000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1400000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 45216790
+    },
+    "baseSpace": 113.32
+  },
+  "3539": {
+    "complexNumber": 3539,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.033826,
+      "yCoordinate": 37.59535
+    },
+    "useApprovalDate": "20001207",
+    "totalHouseholdNumber": 297,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 960000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 895000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 21974474
+    },
+    "baseSpace": 144.42
+  },
+  "107969": {
+    "complexNumber": 107969,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.014076,
+      "yCoordinate": 37.53534
+    },
+    "useApprovalDate": "20131121",
+    "totalHouseholdNumber": 34,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 5900000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 99222320
+    },
+    "baseSpace": 196.57
+  },
+  "1157": {
+    "complexNumber": 1157,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.927056,
+      "yCoordinate": 37.565216
+    },
+    "useApprovalDate": "19990224",
+    "totalHouseholdNumber": 212,
+    "isVrExposed": false,
+    "viewCount": 8,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1081000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 28011170
+    },
+    "baseSpace": 141.62
+  },
+  "9488": {
+    "complexNumber": 9488,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.91884,
+      "yCoordinate": 37.546256
+    },
+    "useApprovalDate": "20000724",
+    "totalHouseholdNumber": 45,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 840000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 30288606
+    },
+    "baseSpace": 91.68
+  },
+  "13002": {
+    "complexNumber": 13002,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.011921,
+      "yCoordinate": 37.570012
+    },
+    "useApprovalDate": "19680913",
+    "totalHouseholdNumber": 125,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "B1": {
+        "warrantyPrice": 130000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "warrantyPrice": 10515097
+    },
+    "baseSpace": 40.87
+  },
+  "102658": {
+    "complexNumber": 102658,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.968838,
+      "yCoordinate": 37.527222
+    },
+    "useApprovalDate": "20121214",
+    "totalHouseholdNumber": 128,
+    "isVrExposed": false,
+    "viewCount": 12,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 7000000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 129017032
+    },
+    "baseSpace": 179.36
+  },
+  "26171": {
+    "complexNumber": 26171,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.05868,
+      "yCoordinate": 37.561383
+    },
+    "useApprovalDate": "20071108",
+    "totalHouseholdNumber": 83,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 845000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 31221996
+    },
+    "baseSpace": 105.88
+  },
+  "26918": {
+    "complexNumber": 26918,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.06105,
+      "yCoordinate": 37.580874
+    },
+    "useApprovalDate": "20120726",
+    "totalHouseholdNumber": 719,
+    "isVrExposed": false,
+    "viewCount": 13,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1400000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1240000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 41351849
+    },
+    "warrantyPriceRatio": 56.42857142857143,
+    "baseSpace": 111.92
+  },
+  "22107": {
+    "complexNumber": 22107,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.916598,
+      "yCoordinate": 37.579943
+    },
+    "useApprovalDate": "20070226",
+    "totalHouseholdNumber": 235,
+    "isVrExposed": false,
+    "viewCount": 9,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 895000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 27099066
+    },
+    "baseSpace": 109.79
+  },
+  "87": {
+    "complexNumber": 87,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.065544,
+      "yCoordinate": 37.532866
+    },
+    "useApprovalDate": "19931221",
+    "totalHouseholdNumber": 355,
+    "isVrExposed": false,
+    "viewCount": 13,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2400000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2190000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 76294682
+    },
+    "warrantyPriceRatio": 32.916666666666664,
+    "baseSpace": 103.99
+  },
+  "160782": {
+    "complexNumber": 160782,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.966013,
+      "yCoordinate": 37.526385
+    },
+    "useApprovalDate": "20250321",
+    "totalHouseholdNumber": 110,
+    "isVrExposed": false,
+    "viewCount": 107,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4000000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 87350640
+    },
+    "baseSpace": 151.38
+  },
+  "867": {
+    "complexNumber": 867,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.972645,
+      "yCoordinate": 37.521885
+    },
+    "useApprovalDate": "19980918",
+    "totalHouseholdNumber": 2036,
+    "isVrExposed": false,
+    "viewCount": 56,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2550000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2500000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 99033737
+    },
+    "warrantyPriceRatio": 29.411764705882355,
+    "baseSpace": 85.12
+  },
+  "113292": {
+    "complexNumber": 113292,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.961291,
+      "yCoordinate": 37.510134
+    },
+    "useApprovalDate": "20191224",
+    "totalHouseholdNumber": 1073,
+    "isVrExposed": false,
+    "viewCount": 45,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3375000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2510000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 98813429
+    },
+    "warrantyPriceRatio": 37.03703703703704,
+    "baseSpace": 112.91
+  },
+  "182057": {
+    "complexNumber": 182057,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.059077,
+      "yCoordinate": 37.521853
+    },
+    "useApprovalDate": "202511",
+    "totalHouseholdNumber": 1261,
+    "isVrExposed": false,
+    "viewCount": 87,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 6200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 5400000000
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 177838325
+    },
+    "warrantyPriceRatio": 33.87096774193548,
+    "baseSpace": 115.25
+  },
+  "24009": {
+    "complexNumber": 24009,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.048834,
+      "yCoordinate": 37.516721
+    },
+    "useApprovalDate": "20081210",
+    "totalHouseholdNumber": 1144,
+    "isVrExposed": false,
+    "viewCount": 42,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3400000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3360000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 102739204
+    },
+    "warrantyPriceRatio": 38.23529411764706,
+    "baseSpace": 109.4
+  },
+  "1081": {
+    "complexNumber": 1081,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.056715,
+      "yCoordinate": 37.524236
+    },
+    "useApprovalDate": "20111021",
+    "totalHouseholdNumber": 708,
+    "isVrExposed": false,
+    "viewCount": 21,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2800000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2800000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 130002780
+    },
+    "warrantyPriceRatio": 38.392857142857146,
+    "baseSpace": 71.2
+  },
+  "168097": {
+    "complexNumber": 168097,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.013089,
+      "yCoordinate": 37.51158
+    },
+    "useApprovalDate": "202506",
+    "totalHouseholdNumber": 3307,
+    "isVrExposed": false,
+    "viewCount": 75,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3950000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4310000000
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 155858805
+    },
+    "warrantyPriceRatio": 41.77215189873418,
+    "baseSpace": 83.78
+  },
+  "742": {
+    "complexNumber": 742,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.019316,
+      "yCoordinate": 37.523985
+    },
+    "useApprovalDate": "19871205",
+    "totalHouseholdNumber": 911,
+    "isVrExposed": false,
+    "viewCount": 21,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4250000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 5000000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 147471252
+    },
+    "warrantyPriceRatio": 23.52941176470588,
+    "baseSpace": 95.27
+  },
+  "108228": {
+    "complexNumber": 108228,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.012151,
+      "yCoordinate": 37.515289
+    },
+    "useApprovalDate": "20160622",
+    "totalHouseholdNumber": 843,
+    "isVrExposed": false,
+    "viewCount": 17,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3750000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 118285535
+    },
+    "warrantyPriceRatio": 41.25,
+    "baseSpace": 111.79
+  },
+  "372": {
+    "complexNumber": 372,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.95168,
+      "yCoordinate": 37.509888
+    },
+    "useApprovalDate": "19930626",
+    "totalHouseholdNumber": 765,
+    "isVrExposed": false,
+    "viewCount": 58,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1730000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1640000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 46061598
+    },
+    "baseSpace": 124.16
+  },
+  "762": {
+    "complexNumber": 762,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.955646,
+      "yCoordinate": 37.5248
+    },
+    "useApprovalDate": "19941129",
+    "totalHouseholdNumber": 638,
+    "isVrExposed": false,
+    "viewCount": 26,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2800000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2500000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 95691078
+    },
+    "warrantyPriceRatio": 25.892857142857146,
+    "baseSpace": 96.73
+  },
+  "749": {
+    "complexNumber": 749,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.937102,
+      "yCoordinate": 37.520699
+    },
+    "useApprovalDate": "19711221",
+    "totalHouseholdNumber": 1584,
+    "isVrExposed": false,
+    "viewCount": 22,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2750000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2600000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 114726258
+    },
+    "warrantyPriceRatio": 18.181818181818183,
+    "baseSpace": 79.24
+  },
+  "161259": {
+    "complexNumber": 161259,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.929815,
+      "yCoordinate": 37.524113
+    },
+    "useApprovalDate": "20230821",
+    "totalHouseholdNumber": 454,
+    "isVrExposed": false,
+    "viewCount": 30,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4947000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4646000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 105446633
+    },
+    "warrantyPriceRatio": 64.68566808166565,
+    "baseSpace": 155.09
+  },
+  "1221": {
+    "complexNumber": 1221,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.918318,
+      "yCoordinate": 37.515832
+    },
+    "useApprovalDate": "19990615",
+    "totalHouseholdNumber": 368,
+    "isVrExposed": false,
+    "viewCount": 23,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1135000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1000000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 43166888
+    },
+    "warrantyPriceRatio": 48.458149779735685,
+    "baseSpace": 86.92
+  },
+  "744": {
+    "complexNumber": 744,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.923988,
+      "yCoordinate": 37.520485
+    },
+    "useApprovalDate": "19780524",
+    "totalHouseholdNumber": 577,
+    "isVrExposed": false,
+    "viewCount": 18,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2650000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2770000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 88811133
+    },
+    "warrantyPriceRatio": 27.547169811320753,
+    "baseSpace": 98.64
+  },
+  "757": {
+    "complexNumber": 757,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.987497,
+      "yCoordinate": 37.518091
+    },
+    "useApprovalDate": "19840628",
+    "totalHouseholdNumber": 1326,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4950000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3870000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 107698010
+    },
+    "warrantyPriceRatio": 21.71717171717172,
+    "baseSpace": 151.94
+  },
+  "769": {
+    "complexNumber": 769,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.981793,
+      "yCoordinate": 37.518811
+    },
+    "useApprovalDate": "19741209",
+    "totalHouseholdNumber": 653,
+    "isVrExposed": false,
+    "viewCount": 8,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3300000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2709600000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 103452731
+    },
+    "baseSpace": 105.45
+  },
+  "3460": {
+    "complexNumber": 3460,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.991712,
+      "yCoordinate": 37.52314
+    },
+    "useApprovalDate": "20021014",
+    "totalHouseholdNumber": 172,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2600000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2700000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 43836594
+    },
+    "baseSpace": 196.07
+  },
+  "473": {
+    "complexNumber": 473,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.04271,
+      "yCoordinate": 37.517041
+    },
+    "useApprovalDate": "19981106",
+    "totalHouseholdNumber": 304,
+    "isVrExposed": false,
+    "viewCount": 18,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2500000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2400000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 107274954
+    },
+    "warrantyPriceRatio": 34,
+    "baseSpace": 77.04
+  },
+  "3": {
+    "complexNumber": 3,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.036753,
+      "yCoordinate": 37.51938
+    },
+    "useApprovalDate": "19850803",
+    "totalHouseholdNumber": 548,
+    "isVrExposed": false,
+    "viewCount": 11,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2895000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2730000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 93395604
+    },
+    "warrantyPriceRatio": 24.870466321243523,
+    "baseSpace": 102.47
+  },
+  "151286": {
+    "complexNumber": 151286,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.026587,
+      "yCoordinate": 37.514362
+    },
+    "useApprovalDate": "20220610",
+    "totalHouseholdNumber": 148,
+    "isVrExposed": false,
+    "viewCount": 7,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3795000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 122874182
+    },
+    "warrantyPriceRatio": 44.79578392621871,
+    "baseSpace": 102.1
+  },
+  "108392": {
+    "complexNumber": 108392,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.979971,
+      "yCoordinate": 37.517254
+    },
+    "useApprovalDate": "20150730",
+    "totalHouseholdNumber": 460,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 5900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4449980000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 117686185
+    },
+    "warrantyPriceRatio": 38.13559322033898,
+    "baseSpace": 165.73
+  },
+  "12826": {
+    "complexNumber": 12826,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.05906,
+      "yCoordinate": 37.51818
+    },
+    "useApprovalDate": "20040318",
+    "totalHouseholdNumber": 449,
+    "isVrExposed": false,
+    "viewCount": 17,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 7100000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 6500000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 128348408
+    },
+    "warrantyPriceRatio": 37.32394366197183,
+    "baseSpace": 182.87
+  },
+  "756": {
+    "complexNumber": 756,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.002107,
+      "yCoordinate": 37.525868
+    },
+    "useApprovalDate": "19920919",
+    "totalHouseholdNumber": 226,
+    "isVrExposed": false,
+    "viewCount": 8,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 4000000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 135827597
+    },
+    "baseSpace": 102.22
+  },
+  "26310": {
+    "complexNumber": 26310,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.943567,
+      "yCoordinate": 37.510104
+    },
+    "useApprovalDate": "20100826",
+    "totalHouseholdNumber": 299,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2000000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1650000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 59312550
+    },
+    "warrantyPriceRatio": 45,
+    "baseSpace": 111.47
+  },
+  "1133": {
+    "complexNumber": 1133,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.93147,
+      "yCoordinate": 37.51117
+    },
+    "useApprovalDate": "19991209",
+    "totalHouseholdNumber": 278,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1375000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1170000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 53576784
+    },
+    "baseSpace": 84.84
+  },
+  "9428": {
+    "complexNumber": 9428,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.033697,
+      "yCoordinate": 37.523842
+    },
+    "useApprovalDate": "20040420",
+    "totalHouseholdNumber": 86,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 6650000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 6330000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 93794138
+    },
+    "baseSpace": 234.38
+  },
+  "2981": {
+    "complexNumber": 2981,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.90319,
+      "yCoordinate": 37.532316
+    },
+    "useApprovalDate": "20031230",
+    "totalHouseholdNumber": 1391,
+    "isVrExposed": true,
+    "viewCount": 64,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2600000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2395000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 60320310
+    },
+    "warrantyPriceRatio": 46.15384615384615,
+    "baseSpace": 142.49
+  },
+  "3801": {
+    "complexNumber": 3801,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.893816,
+      "yCoordinate": 37.531968
+    },
+    "useApprovalDate": "20001215",
+    "totalHouseholdNumber": 770,
+    "isVrExposed": false,
+    "viewCount": 20,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1565000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1335000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 50292150
+    },
+    "baseSpace": 102.87
+  },
+  "11135": {
+    "complexNumber": 11135,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.897917,
+      "yCoordinate": 37.536727
+    },
+    "useApprovalDate": "19840807",
+    "totalHouseholdNumber": 91,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 9,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 220000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 16596821
+    },
+    "baseSpace": 43.82
+  },
+  "3457": {
+    "complexNumber": 3457,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.903536,
+      "yCoordinate": 37.511812
+    },
+    "useApprovalDate": "20020531",
+    "totalHouseholdNumber": 2462,
+    "isVrExposed": true,
+    "viewCount": 63,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1600000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1610000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 48171730
+    },
+    "warrantyPriceRatio": 45.3125,
+    "baseSpace": 109.8
+  },
+  "3452": {
+    "complexNumber": 3452,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.896862,
+      "yCoordinate": 37.516408
+    },
+    "useApprovalDate": "20011121",
+    "totalHouseholdNumber": 1302,
+    "isVrExposed": false,
+    "viewCount": 31,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1915000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1825000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 54578655
+    },
+    "baseSpace": 115.99
+  },
+  "109205": {
+    "complexNumber": 109205,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.907445,
+      "yCoordinate": 37.52383
+    },
+    "useApprovalDate": "20170830",
+    "totalHouseholdNumber": 1221,
+    "isVrExposed": false,
+    "viewCount": 24,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2060000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2040000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 58950113
+    },
+    "warrantyPriceRatio": 53.398058252427184,
+    "baseSpace": 115.52
+  },
+  "410": {
+    "complexNumber": 410,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.902198,
+      "yCoordinate": 37.569123
+    },
+    "useApprovalDate": "19860607",
+    "totalHouseholdNumber": 3710,
+    "isVrExposed": false,
+    "viewCount": 62,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1500000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1340000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 74859261
+    },
+    "warrantyPriceRatio": 23.333333333333332,
+    "baseSpace": 66.24
+  },
+  "101160": {
+    "complexNumber": 101160,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.911381,
+      "yCoordinate": 37.573623
+    },
+    "useApprovalDate": "20121005",
+    "totalHouseholdNumber": 3293,
+    "isVrExposed": true,
+    "viewCount": 37,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1540000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1540000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 46138380
+    },
+    "warrantyPriceRatio": 55.1948051948052,
+    "baseSpace": 110.34
+  },
+  "8015": {
+    "complexNumber": 8015,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.907688,
+      "yCoordinate": 37.569868
+    },
+    "useApprovalDate": "20040824",
+    "totalHouseholdNumber": 795,
+    "isVrExposed": false,
+    "viewCount": 35,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1150000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1130000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 35233111
+    },
+    "baseSpace": 107.9
+  },
+  "735": {
+    "complexNumber": 735,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.892087,
+      "yCoordinate": 37.540232
+    },
+    "useApprovalDate": "19960401",
+    "totalHouseholdNumber": 1215,
+    "isVrExposed": false,
+    "viewCount": 60,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1395000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1340000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 54912718
+    },
+    "warrantyPriceRatio": 45.16129032258064,
+    "baseSpace": 83.98
+  },
+  "652": {
+    "complexNumber": 652,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.879339,
+      "yCoordinate": 37.539614
+    },
+    "useApprovalDate": "19851119",
+    "totalHouseholdNumber": 1882,
+    "isVrExposed": false,
+    "viewCount": 40,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "B1": {
+        "warrantyPrice": 600000000
+      }
+    },
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 603000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "warrantyPrice": 22412101
+    },
+    "baseSpace": 88.5
+  },
+  "656": {
+    "complexNumber": 656,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.880399,
+      "yCoordinate": 37.533853
+    },
+    "useApprovalDate": "19860930",
+    "totalHouseholdNumber": 1848,
+    "isVrExposed": false,
+    "viewCount": 33,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2770000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2499000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 108187907
+    },
+    "warrantyPriceRatio": 25.27075812274368,
+    "baseSpace": 84.64
+  },
+  "118025": {
+    "complexNumber": 118025,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.892364,
+      "yCoordinate": 37.585108
+    },
+    "useApprovalDate": "20211209",
+    "totalHouseholdNumber": 1192,
+    "isVrExposed": false,
+    "viewCount": 45,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1175000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1149000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 45276808
+    },
+    "warrantyPriceRatio": 55.319148936170215,
+    "baseSpace": 85.79
+  },
+  "134321": {
+    "complexNumber": 134321,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.903418,
+      "yCoordinate": 37.580072
+    },
+    "useApprovalDate": "20230112",
+    "totalHouseholdNumber": 1256,
+    "isVrExposed": true,
+    "viewCount": 41,
+    "pyeongTypeNumber": 8,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1800000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1655000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 52892560
+    },
+    "baseSpace": 112.5
+  },
+  "783": {
+    "complexNumber": 783,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.908849,
+      "yCoordinate": 37.58962
+    },
+    "useApprovalDate": "19871127",
+    "totalHouseholdNumber": 570,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 670000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 600000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 25826445
+    },
+    "baseSpace": 85.76
+  },
+  "729": {
+    "complexNumber": 729,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.882632,
+      "yCoordinate": 37.524753
+    },
+    "useApprovalDate": "19980724",
+    "totalHouseholdNumber": 388,
+    "isVrExposed": false,
+    "viewCount": 38,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1400000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1190000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 42432373
+    },
+    "warrantyPriceRatio": 47.85714285714286,
+    "baseSpace": 109.07
+  },
+  "1074": {
+    "complexNumber": 1074,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.882755,
+      "yCoordinate": 37.511167
+    },
+    "useApprovalDate": "19991130",
+    "totalHouseholdNumber": 1095,
+    "isVrExposed": false,
+    "viewCount": 34,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1550000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1370000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 47426571
+    },
+    "baseSpace": 108.04
+  },
+  "669": {
+    "complexNumber": 669,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.873293,
+      "yCoordinate": 37.514704
+    },
+    "useApprovalDate": "19870730",
+    "totalHouseholdNumber": 3100,
+    "isVrExposed": false,
+    "viewCount": 29,
+    "pyeongTypeNumber": 10,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2980000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2820000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 76124250
+    },
+    "warrantyPriceRatio": 28.523489932885905,
+    "baseSpace": 129.41
+  },
+  "13940": {
+    "complexNumber": 13940,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.891541,
+      "yCoordinate": 37.574808
+    },
+    "useApprovalDate": "20031112",
+    "totalHouseholdNumber": 657,
+    "isVrExposed": false,
+    "viewCount": 35,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1380000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1260000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 54322258
+    },
+    "warrantyPriceRatio": 46.3768115942029,
+    "baseSpace": 83.98
+  },
+  "869": {
+    "complexNumber": 869,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.872846,
+      "yCoordinate": 37.554818
+    },
+    "useApprovalDate": "19980629",
+    "totalHouseholdNumber": 778,
+    "isVrExposed": false,
+    "viewCount": 30,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1075000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 980000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 41612633
+    },
+    "baseSpace": 85.4
+  },
+  "870": {
+    "complexNumber": 870,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.877709,
+      "yCoordinate": 37.549809
+    },
+    "useApprovalDate": "19990118",
+    "totalHouseholdNumber": 570,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1500000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1260000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 44536352
+    },
+    "baseSpace": 111.34
+  },
+  "1220": {
+    "complexNumber": 1220,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.887857,
+      "yCoordinate": 37.544697
+    },
+    "useApprovalDate": "19990901",
+    "totalHouseholdNumber": 219,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "B1": {
+        "warrantyPrice": 520000000
+      }
+    },
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 450000000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "warrantyPrice": 20023391
+    },
+    "baseSpace": 85.85
+  },
+  "103831": {
+    "complexNumber": 103831,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.913732,
+      "yCoordinate": 37.551156
+    },
+    "useApprovalDate": "20120629",
+    "totalHouseholdNumber": 617,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2600000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2600000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 52665692
+    },
+    "baseSpace": 163.2
+  },
+  "115201": {
+    "complexNumber": 115201,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.90306,
+      "yCoordinate": 37.55269
+    },
+    "useApprovalDate": "20190805",
+    "totalHouseholdNumber": 385,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1880000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1745000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 57032906
+    },
+    "baseSpace": 108.97
+  },
+  "1149": {
+    "complexNumber": 1149,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.901275,
+      "yCoordinate": 37.556401
+    },
+    "useApprovalDate": "19991229",
+    "totalHouseholdNumber": 134,
+    "isVrExposed": false,
+    "viewCount": 8,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 690000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 680000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 28240580
+    },
+    "baseSpace": 80.77
+  },
+  "113675": {
+    "complexNumber": 113675,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.888972,
+      "yCoordinate": 37.593011
+    },
+    "useApprovalDate": "20190219",
+    "totalHouseholdNumber": 969,
+    "isVrExposed": false,
+    "viewCount": 16,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 850000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 835000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 24831364
+    },
+    "baseSpace": 113.16
+  },
+  "101608": {
+    "complexNumber": 101608,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.878797,
+      "yCoordinate": 37.583626
+    },
+    "useApprovalDate": "20101014",
+    "totalHouseholdNumber": 1036,
+    "isVrExposed": false,
+    "viewCount": 13,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "B1": {
+        "warrantyPrice": 650000000
+      }
+    },
+    "realPriceByTradeType": {
+      "B1": {
+        "dealPrice": 0,
+        "warrantyPrice": 422620000,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "warrantyPrice": 18828954
+    },
+    "baseSpace": 114.12
+  },
+  "17628": {
+    "complexNumber": 17628,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.881458,
+      "yCoordinate": 37.582138
+    },
+    "useApprovalDate": "20050602",
+    "totalHouseholdNumber": 733,
+    "isVrExposed": false,
+    "viewCount": 12,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1500000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1315000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 45350992
+    },
+    "baseSpace": 109.34
+  },
+  "688": {
+    "complexNumber": 688,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.894565,
+      "yCoordinate": 37.523352
+    },
+    "useApprovalDate": "19940608",
+    "totalHouseholdNumber": 783,
+    "isVrExposed": false,
+    "viewCount": 22,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1570000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1555000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 51048317
+    },
+    "baseSpace": 101.67
+  },
+  "845": {
+    "complexNumber": 845,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.901748,
+      "yCoordinate": 37.574336
+    },
+    "useApprovalDate": "19940929",
+    "totalHouseholdNumber": 420,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1200000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1100000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 37244784
+    },
+    "warrantyPriceRatio": 52.5,
+    "baseSpace": 106.51
+  },
+  "658": {
+    "complexNumber": 658,
+    "realEstateType": "A04",
+    "coordinates": {
+      "xCoordinate": 126.884821,
+      "yCoordinate": 37.534652
+    },
+    "useApprovalDate": "19860930",
+    "totalHouseholdNumber": 1362,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2400000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2200000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 122040978
+    },
+    "baseSpace": 65.01
+  },
+  "11327": {
+    "complexNumber": 11327,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.870489,
+      "yCoordinate": 37.524232
+    },
+    "useApprovalDate": "20061130",
+    "totalHouseholdNumber": 576,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3500000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 3300000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 63215033
+    },
+    "warrantyPriceRatio": 60,
+    "baseSpace": 183.03
+  },
+  "11542": {
+    "complexNumber": 11542,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.904849,
+      "yCoordinate": 37.560435
+    },
+    "useApprovalDate": "20030710",
+    "totalHouseholdNumber": 81,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 950000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 33473627
+    },
+    "baseSpace": 93.82
+  },
+  "107438": {
+    "complexNumber": 107438,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.935409,
+      "yCoordinate": 37.54335
+    },
+    "useApprovalDate": "20160128",
+    "totalHouseholdNumber": 773,
+    "isVrExposed": false,
+    "viewCount": 18,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2400000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 2100000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 95244705
+    },
+    "baseSpace": 83.3
+  },
+  "126062": {
+    "complexNumber": 126062,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.026427,
+      "yCoordinate": 37.608503
+    },
+    "useApprovalDate": "20220127",
+    "totalHouseholdNumber": 2029,
+    "isVrExposed": true,
+    "viewCount": 56,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1900000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1700000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 57350178
+    },
+    "warrantyPriceRatio": 55.26315789473685,
+    "baseSpace": 109.52
+  },
+  "3425": {
+    "complexNumber": 3425,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.045737,
+      "yCoordinate": 37.607917
+    },
+    "useApprovalDate": "20030627",
+    "totalHouseholdNumber": 1253,
+    "isVrExposed": false,
+    "viewCount": 47,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 820000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 750000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 30817913
+    },
+    "baseSpace": 87.96
+  },
+  "1191": {
+    "complexNumber": 1191,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.036532,
+      "yCoordinate": 37.601544
+    },
+    "useApprovalDate": "19990407",
+    "totalHouseholdNumber": 1318,
+    "isVrExposed": false,
+    "viewCount": 32,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1100000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 965000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 33190612
+    },
+    "baseSpace": 109.56
+  },
+  "119275": {
+    "complexNumber": 119275,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.932045,
+      "yCoordinate": 37.599253
+    },
+    "useApprovalDate": "20210527",
+    "totalHouseholdNumber": 2569,
+    "isVrExposed": true,
+    "viewCount": 53,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1300000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1260000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 51191429
+    },
+    "warrantyPriceRatio": 52.307692307692314,
+    "baseSpace": 83.95
+  },
+  "186117": {
+    "complexNumber": 186117,
+    "realEstateType": "B01",
+    "coordinates": {
+      "xCoordinate": 126.923501,
+      "yCoordinate": 37.611756
+    },
+    "useApprovalDate": "202610",
+    "totalHouseholdNumber": 2451,
+    "isVrExposed": false,
+    "viewCount": 25,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1255225000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1270450000
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 51578669
+    },
+    "baseSpace": 80.45
+  },
+  "9239": {
+    "complexNumber": 9239,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.934389,
+      "yCoordinate": 37.612217
+    },
+    "useApprovalDate": "20040529",
+    "totalHouseholdNumber": 662,
+    "isVrExposed": false,
+    "viewCount": 10,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1020000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 950000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 30451555
+    },
+    "baseSpace": 110.73
+  },
+  "8082": {
+    "complexNumber": 8082,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.016592,
+      "yCoordinate": 37.611669
+    },
+    "useApprovalDate": "20050420",
+    "totalHouseholdNumber": 1634,
+    "isVrExposed": false,
+    "viewCount": 45,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1150000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 995000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 33931209
+    },
+    "warrantyPriceRatio": 56.52173913043478,
+    "baseSpace": 112.04
+  },
+  "579": {
+    "complexNumber": 579,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.023242,
+      "yCoordinate": 37.599399
+    },
+    "useApprovalDate": "19990430",
+    "totalHouseholdNumber": 1278,
+    "isVrExposed": false,
+    "viewCount": 36,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 950000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 960000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 29909483
+    },
+    "warrantyPriceRatio": 63.1578947368421,
+    "baseSpace": 105
+  },
+  "11638": {
+    "complexNumber": 11638,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.010397,
+      "yCoordinate": 37.603941
+    },
+    "useApprovalDate": "20051116",
+    "totalHouseholdNumber": 745,
+    "isVrExposed": false,
+    "viewCount": 11,
+    "pyeongTypeNumber": 11,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 865000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 833000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 24952042
+    },
+    "baseSpace": 114.6
+  },
+  "179137": {
+    "complexNumber": 179137,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.94728,
+      "yCoordinate": 37.600733
+    },
+    "useApprovalDate": "202506",
+    "totalHouseholdNumber": 827,
+    "isVrExposed": false,
+    "viewCount": 32,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 965000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 790000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 39113321
+    },
+    "warrantyPriceRatio": 62.17616580310881,
+    "baseSpace": 81.56
+  },
+  "114735": {
+    "complexNumber": 114735,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.945198,
+      "yCoordinate": 37.598219
+    },
+    "useApprovalDate": "20200721",
+    "totalHouseholdNumber": 497,
+    "isVrExposed": false,
+    "viewCount": 21,
+    "pyeongTypeNumber": 8,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1050000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 958000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 32382444
+    },
+    "baseSpace": 107.19
+  },
+  "107610": {
+    "complexNumber": 107610,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.936368,
+      "yCoordinate": 37.606856
+    },
+    "useApprovalDate": "20150722",
+    "totalHouseholdNumber": 1230,
+    "isVrExposed": false,
+    "viewCount": 18,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1260000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1150000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 38467760
+    },
+    "baseSpace": 108.28
+  },
+  "149052": {
+    "complexNumber": 149052,
+    "realEstateType": "B01",
+    "coordinates": {
+      "xCoordinate": 126.909712,
+      "yCoordinate": 37.598123
+    },
+    "useApprovalDate": "202605",
+    "totalHouseholdNumber": 262,
+    "isVrExposed": false,
+    "viewCount": 22,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 803200000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 36618487
+    },
+    "warrantyPriceRatio": 57.89342629482071,
+    "baseSpace": 72.51
+  },
+  "118028": {
+    "complexNumber": 118028,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.89404,
+      "yCoordinate": 37.60265
+    },
+    "useApprovalDate": "20200319",
+    "totalHouseholdNumber": 951,
+    "isVrExposed": false,
+    "viewCount": 20,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 750000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 750000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 30601564
+    },
+    "warrantyPriceRatio": 66.66666666666666,
+    "baseSpace": 81.02
+  },
+  "119587": {
+    "complexNumber": 119587,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.897535,
+      "yCoordinate": 37.609752
+    },
+    "useApprovalDate": "20201005",
+    "totalHouseholdNumber": 1059,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 640000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 628000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 25040861
+    },
+    "warrantyPriceRatio": 69.53125,
+    "baseSpace": 84.49
+  },
+  "13412": {
+    "complexNumber": 13412,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.976709,
+      "yCoordinate": 37.608573
+    },
+    "useApprovalDate": "19890329",
+    "totalHouseholdNumber": 252,
+    "isVrExposed": false,
+    "viewCount": 9,
+    "pyeongTypeNumber": 8,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 540000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 18622197
+    },
+    "baseSpace": 95.86
+  },
+  "16650": {
+    "complexNumber": 16650,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.96867,
+      "yCoordinate": 37.608404
+    },
+    "useApprovalDate": "19920519",
+    "totalHouseholdNumber": 168,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 730000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 20051707
+    },
+    "baseSpace": 120.35
+  },
+  "16507": {
+    "complexNumber": 16507,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.958162,
+      "yCoordinate": 37.604131
+    },
+    "useApprovalDate": "19961107",
+    "totalHouseholdNumber": 123,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 665000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 19853219
+    },
+    "baseSpace": 110.73
+  },
+  "25827": {
+    "complexNumber": 25827,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.031385,
+      "yCoordinate": 37.599367
+    },
+    "useApprovalDate": "20091029",
+    "totalHouseholdNumber": 955,
+    "isVrExposed": false,
+    "viewCount": 24,
+    "pyeongTypeNumber": 7,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1300000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1235000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 39086134
+    },
+    "baseSpace": 109.95
+  },
+  "134727": {
+    "complexNumber": 134727,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.920706,
+      "yCoordinate": 37.59989
+    },
+    "useApprovalDate": "20200916",
+    "totalHouseholdNumber": 99,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 365000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 350000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 29726817
+    },
+    "baseSpace": 40.59
+  },
+  "1188": {
+    "complexNumber": 1188,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.008356,
+      "yCoordinate": 37.60669
+    },
+    "useApprovalDate": "20000117",
+    "totalHouseholdNumber": 271,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 670000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 580000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 19988051
+    },
+    "baseSpace": 110.81
+  },
+  "132120": {
+    "complexNumber": 132120,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.957364,
+      "yCoordinate": 37.611612
+    },
+    "useApprovalDate": "20211015",
+    "totalHouseholdNumber": 52,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1275000000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 40438221
+    },
+    "baseSpace": 104.23
+  },
+  "1231": {
+    "complexNumber": 1231,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.90587,
+      "yCoordinate": 37.612911
+    },
+    "useApprovalDate": "19981128",
+    "totalHouseholdNumber": 366,
+    "isVrExposed": false,
+    "viewCount": 8,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 480000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 457500000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 19120096
+    },
+    "baseSpace": 82.99
+  },
+  "163360": {
+    "complexNumber": 163360,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.061264,
+      "yCoordinate": 37.599765
+    },
+    "useApprovalDate": "202501",
+    "totalHouseholdNumber": 3069,
+    "isVrExposed": true,
+    "viewCount": 307,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1550000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1330000000
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 62617215
+    },
+    "warrantyPriceRatio": 50.32258064516129,
+    "baseSpace": 81.83
+  },
+  "160539": {
+    "complexNumber": 160539,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.056926,
+      "yCoordinate": 37.613844
+    },
+    "useApprovalDate": "202503",
+    "totalHouseholdNumber": 2840,
+    "isVrExposed": true,
+    "viewCount": 33,
+    "pyeongTypeNumber": 13,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1650000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1450000000
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 48176516
+    },
+    "baseSpace": 113.22
+  },
+  "184737": {
+    "complexNumber": 184737,
+    "realEstateType": "B01",
+    "coordinates": {
+      "xCoordinate": 127.055748,
+      "yCoordinate": 37.600732
+    },
+    "useApprovalDate": "202606",
+    "totalHouseholdNumber": 152,
+    "isVrExposed": false,
+    "viewCount": 22,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1402290000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 42024016
+    },
+    "warrantyPriceRatio": 57.049540394640196,
+    "baseSpace": 110.31
+  },
+  "25948": {
+    "complexNumber": 25948,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.054476,
+      "yCoordinate": 37.608303
+    },
+    "useApprovalDate": "20090626",
+    "totalHouseholdNumber": 580,
+    "isVrExposed": false,
+    "viewCount": 15,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1025000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 950000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 31476355
+    },
+    "baseSpace": 107.65
+  },
+  "3098": {
+    "complexNumber": 3098,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.012946,
+      "yCoordinate": 37.618311
+    },
+    "useApprovalDate": "20040507",
+    "totalHouseholdNumber": 3830,
+    "isVrExposed": true,
+    "viewCount": 216,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 750000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 665000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 30410140
+    },
+    "warrantyPriceRatio": 66.66666666666666,
+    "baseSpace": 81.53
+  },
+  "3099": {
+    "complexNumber": 3099,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.010971,
+      "yCoordinate": 37.621561
+    },
+    "useApprovalDate": "20040807",
+    "totalHouseholdNumber": 1585,
+    "isVrExposed": false,
+    "viewCount": 58,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 685000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 640000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 22094474
+    },
+    "baseSpace": 102.49
+  },
+  "146699": {
+    "complexNumber": 146699,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.020965,
+      "yCoordinate": 37.627027
+    },
+    "useApprovalDate": "202408",
+    "totalHouseholdNumber": 1045,
+    "isVrExposed": true,
+    "viewCount": 14,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1100000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 990000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 45500043
+    },
+    "baseSpace": 79.92
+  },
+  "26191": {
+    "complexNumber": 26191,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.934884,
+      "yCoordinate": 37.618763
+    },
+    "useApprovalDate": "20100825",
+    "totalHouseholdNumber": 1185,
+    "isVrExposed": false,
+    "viewCount": 41,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 930000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 860000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 38749433
+    },
+    "baseSpace": 79.34
+  },
+  "9841": {
+    "complexNumber": 9841,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.929145,
+      "yCoordinate": 37.625631
+    },
+    "useApprovalDate": "20040630",
+    "totalHouseholdNumber": 256,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 660000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 590000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 26520215
+    },
+    "baseSpace": 82.27
+  },
+  "119453": {
+    "complexNumber": 119453,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.917424,
+      "yCoordinate": 37.623613
+    },
+    "useApprovalDate": "20180125",
+    "totalHouseholdNumber": 129,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 1,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 110000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 120000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 15094908
+    },
+    "baseSpace": 24.09
+  },
+  "116048": {
+    "complexNumber": 116048,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.034295,
+      "yCoordinate": 37.619023
+    },
+    "useApprovalDate": "20190927",
+    "totalHouseholdNumber": 1028,
+    "isVrExposed": true,
+    "viewCount": 25,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1050000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1015000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 31780573
+    },
+    "baseSpace": 109.22
+  },
+  "8786": {
+    "complexNumber": 8786,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.036222,
+      "yCoordinate": 37.615949
+    },
+    "useApprovalDate": "20030620",
+    "totalHouseholdNumber": 860,
+    "isVrExposed": false,
+    "viewCount": 18,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 870000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 865000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 26269939
+    },
+    "baseSpace": 109.48
+  },
+  "3255": {
+    "complexNumber": 3255,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.042681,
+      "yCoordinate": 37.631608
+    },
+    "useApprovalDate": "19971120",
+    "totalHouseholdNumber": 571,
+    "isVrExposed": false,
+    "viewCount": 14,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 360000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 310000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 17042569
+    },
+    "warrantyPriceRatio": 45.416666666666664,
+    "baseSpace": 69.83
+  },
+  "10670": {
+    "complexNumber": 10670,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.000959,
+      "yCoordinate": 37.617294
+    },
+    "useApprovalDate": "20041130",
+    "totalHouseholdNumber": 127,
+    "isVrExposed": false,
+    "viewCount": 4,
+    "pyeongTypeNumber": 3,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 697500000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 645000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 19171738
+    },
+    "baseSpace": 120.27
+  },
+  "101334": {
+    "complexNumber": 101334,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.936324,
+      "yCoordinate": 37.627417
+    },
+    "useApprovalDate": "20100614",
+    "totalHouseholdNumber": 125,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 4,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1250000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 1100000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 24683299
+    },
+    "baseSpace": 167.41
+  },
+  "119435": {
+    "complexNumber": 119435,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 127.011918,
+      "yCoordinate": 37.62766
+    },
+    "useApprovalDate": "20011213",
+    "totalHouseholdNumber": 48,
+    "isVrExposed": false,
+    "viewCount": 1,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {},
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {},
+    "baseSpace": 101.51
+  },
+  "127149": {
+    "complexNumber": 127149,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.92102,
+      "yCoordinate": 37.620164
+    },
+    "useApprovalDate": "20190902",
+    "totalHouseholdNumber": 66,
+    "isVrExposed": false,
+    "viewCount": 3,
+    "pyeongTypeNumber": 6,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 317500000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 28716463
+    },
+    "baseSpace": 36.55
+  },
+  "157683": {
+    "complexNumber": 157683,
+    "realEstateType": "B01",
+    "coordinates": {
+      "xCoordinate": 127.025837,
+      "yCoordinate": 37.628829
+    },
+    "useApprovalDate": "202608",
+    "totalHouseholdNumber": 182,
+    "isVrExposed": false,
+    "viewCount": 13,
+    "pyeongTypeNumber": 5,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 811500000
+      }
+    },
+    "realPriceByTradeType": {},
+    "pricePerPyeong": {
+      "dealPrice": 31623771
+    },
+    "baseSpace": 84.83
+  },
+  "3817": {
+    "complexNumber": 3817,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.913808,
+      "yCoordinate": 37.622355
+    },
+    "useApprovalDate": "19970508",
+    "totalHouseholdNumber": 278,
+    "isVrExposed": false,
+    "viewCount": 6,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 730000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 715000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 21860884
+    },
+    "baseSpace": 110.39
+  },
+  "9188": {
+    "complexNumber": 9188,
+    "realEstateType": "A01",
+    "coordinates": {
+      "xCoordinate": 126.910952,
+      "yCoordinate": 37.623248
+    },
+    "useApprovalDate": "20030923",
+    "totalHouseholdNumber": 191,
+    "isVrExposed": false,
+    "viewCount": 5,
+    "pyeongTypeNumber": 2,
+    "medianPriceByTradeType": {
+      "A1": {
+        "dealPrice": 700000000
+      }
+    },
+    "realPriceByTradeType": {
+      "A1": {
+        "dealPrice": 640000000,
+        "warrantyPrice": 0,
+        "rentPrice": 0
+      }
+    },
+    "pricePerPyeong": {
+      "dealPrice": 21938277
+    },
+    "warrantyPriceRatio": 64.28571428571429,
+    "baseSpace": 105.48
+  }
+}
